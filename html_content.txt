@@ -1,0 +1,748 @@
+<!DOCTYPE html><html><head>
+<title>2012/13 Barclays Premier League Results - ESPN FC</title>
+
+	<script>/*c: 5901*/function cookieFunc(a,j,k){if(j){if(k){var d=new Date();d.setTime(d.getTime()+(k*24*60*60*1000));var b="; expires="+d.toGMTString()}else{var b=""}document.cookie=a+"="+j+b+"; path=/; domain=espn.go.com;";document.cookie=a+"="+j+b+"; path=/; domain=espnfc.com;"}else{var e=a+"=";var f=document.cookie.split(";");for(var g=0;g<f.length;g++){var h=f[g];while(h.charAt(0)==" "){h=h.substring(1,h.length)}if(h.indexOf(e)==0){return h.substring(e.length,h.length)}}return null}}function setORef(){if(document.referrer){referringUrl=document.referrer.toString();document.cookie=["oRef=",encodeURIComponent(document.referrer),"; expires="+(new Date(+new Date+30000)).toUTCString()].join("")}}(function(){var c=false,e="AcceptCookies";if(document.cookie.indexOf(e)!==-1){c=true}else{cookieFunc(e,"yes",3);cookie=cookieFunc(e,null,null);if(cookie!=null){c=true}}if(c){var g="5901",d=cookieFunc("COREG"),f=window.location,a="replace";if(g!=null){g=g+""}if(d!=null&&d!==g){setORef();if(location.toString().indexOf("cc=")!=-1){var b=new RegExp("cc="+g,"i");f=f.toString()[a](b,"cc="+d);window.location[a](f)}else{if(location.toString().indexOf("?")===-1){window.location[a](location+"?cc="+d)}else{window.location[a](f+"&cc="+d)}}}else{if(d==null&&g!="null"&&g!=null&&g!=""){setORef();if(f.toString().indexOf("?cc")>-1){var b=new RegExp("\\?cc="+g,"i");f=f.toString()[a](b,"");if(f.toString().indexOf("&")>-1){f=f.toString()[a](/&/,"?")}}else{var b=new RegExp("\\&cc="+g,"i");f=f.toString()[a](b,"")}window.location[a](f)}}}})();</script>
+	<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1" />
+
+		<!--[if lte IE 9]>
+			<script type="text/javascript" src="http://a.espncdn.com/prod/scripts/espnfc/eurofc/html5.js"></script>
+		<![endif]-->
+		<link rel="canonical" href="http://espnfc.com/results/_/league/eng.1/barclays-premier-league" /><script>var _sf_startpt=(new Date()).getTime()</script><meta name="google-site-verification" content="lD3mEAC1DGYvF8h3ThP7eeiQy_xEZAiKqIszWSrkEro" /><meta name="robots" content="index, follow" />
+<meta name="googlebot" content="noodp" />
+<meta name="description" content="Stay updated on the latest English Premier League fixtures / schedules and results on ESPN Soccernet, including match times, tv information, venues, and more." />
+<meta name="keywords" content="english premier league, soccer, football, fixtures, schedules, match times" />
+<!--ESPNTIME--><script type="text/javascript">
+
+	//ESPNTime
+	var ESPNTimeReplace;
+	function inlineESPNTimeReplace(spanId, showFullDate) {
+		var span = document.getElementById(spanId),
+			gameTime = span.getAttribute('data-time'),
+			timeFormat = span.getAttribute('data-format');
+
+		// Replace span html with localized time
+		if(span!==undefined && timeFormat!==undefined && gameTime!==undefined){
+			var date = moment(gameTime).format(timeFormat);
+			span.innerHTML = date;
+		}
+	}
+	</script>
+<meta name="application-name" content="ESPN FC"/>
+<meta name="msapplication-TileColor" content="#249824"/>
+<meta name="msapplication-TileImage" content="http://a.espncdn.com/prod/assets/espnfc/8c4f0245-ee75-435d-bc41-77cde64f9c04.png"/>
+<link rel="search" type="application/opensearchdescription+xml" href="http://search.espn.go.com/s/opensearch" title="Search ESPN FC" />
+<link rel="stylesheet" href="http://a.espncdn.com/combiner/c?v=201201031156&css=global_reset.r1.css,base.r236.css,modules.r444.css,global_header.r41.css,modules/global_nav.r47.css,modules/mem/mem.r11.css,modules/mem/mem_espn360.r2.css,warvertical12e.css,universal_overlay/universal_overlay.css,universal_overlay/media_overlay.css,universal_overlay/video_overlay.css,universal_overlay/photo_overlay.css,universal_overlay/dyk_overlay.css,soccernet.fpscoreboard.d2.css,soccernet.base.r36.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://a.espncdn.com/prod/styles/modules/master_tables_09.r3.css" type="text/css" media="screen" charset="utf-8" />
+<link rel="stylesheet" href="http://a.espncdn.com/combiner/c?css=deportes.auto.base.r1.css" type="text/css" media="screen" charset="utf-8" />
+
+	    <style type="text/css">
+	    	body .stathead, body .stathead td {background:#000 !important;}
+	    </style>
+    	<script src="http://a.espncdn.com/combiner/c?v=13&js=jquery-1.7.1.js,plugins/json2.r3.js,plugins/teacrypt.js,plugins/jquery.metadata.js,plugins/jquery.bgiframe.r3.js,plugins/jquery.easing.1.3.js,plugins/jquery.hoverIntent.js,plugins/jquery.jcarousel.js,plugins/jquery.tinysort.r4.js,plugins/jquery.pubsub.r5.js,ui/1.8.16/jquery.ui.core.js,ui/1.8.16/jquery.ui.widget.js,ui/1.8.16/jquery.ui.tabs.js,ui/1.8.16/jquery.ui.accordion.js,plugins/ba-debug-0.4.js,espn.l10n.r12.js,swfobject/2.2/swfobject.js,flashObjWrapper.r7.js,plugins/jquery.colorbox.1.3.14.js,plugins/jquery.ba-postmessage.js,espn.core.duo.r56.js,espn.mem.r35.js,stub.search.r9.js,espn.nav.mega.r33.js,espn.storage.r6.js,espn.p13n.r16.js,espn.video.r80.js,registration/staticLoginIntl.r1-5.2.js,espn.universal.overlay.r17.js,registration/espn.overlay.stub.r3-19.js,espn.espn360.stub.r9.js,espn.myHeadlines.stub.r12.js,espn.myfaves.stub.r3.js,espn.l10n.en.gb.r1.js,kyte.badge.r1.js,soccernet/jquery.pinable.soccernet.r9.js,espn.internationalredirect.r6.js,espn.geo.r1.js&debug=false"></script>
+<script src="http://soccernet-assets.espn.go.com/design05/insertfiles/javascript/flash3.js"></script>
+
+		<script type="text/javascript">
+			var ad_ord = Math.random()*10000000000000000;
+			var ad_counter = 1;
+			var ad_seg = '';
+
+			var ad_swid = jQuery.cookie('SWID');
+			if(typeof espn.core.ad_segments == 'function') {
+				ad_seg = espn.core.ad_segments();
+			}
+		</script>
+		<link rel="stylesheet" href="http://a.espncdn.com/combiner/c?v=3&css=soccernet/espnfc/transitional/espnfc.transitional.r13.css" type="text/css" media="screen" charset="utf-8" />
+		<!--BEGIN QUALTRICS SITE INTERCEPT-->
+		<script type='text/javascript'>
+		(function(){try{(new function(){var c=5,g="v",f="QSI_S_SI_8cSYTaNFYQtNVVb",h="http://siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_8cSYTaNFYQtNVVb&Q_LOC="+encodeURIComponent(window.location.href);
+		this.get=function(a){for(var a=a+"=",e=document.cookie.split(";"),b=0,c=e.length;b<c;b++){for(var d=e[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+		this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+		this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=c)"v"==g&&(c=Math.random()>=c/100?0:100),a=[g,c,0],this.set(f,a.join(":"));else return!0;if(100==a[1])return!0;switch(a[0]){case "v":return!1;case "r":var e=a[2]%(100/a[1]);a[2]++;this.set(f,a.join(":"));return!e}return!0};
+		this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=h+"&Q_LOC="+encodeURIComponent(window.location.href);document.body&&document.body.appendChild(a)}};
+		this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}}).start()}catch(i){}})();
+		</script><div id='SI_8cSYTaNFYQtNVVb'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div><noscript><a target="_blank" href="http://www.qualtrics.com/enterprise-feedback-management">Enterprise Feedback Management</a><br/><a target="_blank" href="http://www.qualtrics.com/crm-integration">CRM Integration</a><br/></noscript>
+		<!--END SITE INTERCEPT-->
+		<script type="text/javascript">    
+    if(true && navigator && navigator.userAgent.toLowerCase().indexOf("teamstream") >= 0) {
+        window.location = 'http://a.m.espn.go.com/mobilecache/general/apps/sc';
+    }
+</script></head>
+<body data-city="soccernet" class="soccernet snet us-edition {sportId: 600}">
+<!--[if IE 6]><div class="ie ie6"><![endif]-->
+<!--[if IE 7]><div class="ie ie7"><![endif]-->
+<!--[if IE 8]><div class="ie ie8"><![endif]-->
+<div class="bg-elements">
+<div id="header-container">
+
+		<script type="text/javascript">
+			if(typeof ad_seg == 'undefined') {ad_seg = "";}
+			if(typeof ad_counter == 'undefined') {ad_counter = 1;}
+			document.write('<script src="http://ad.doubleclick.net/adj/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=1280x946,300x1000,200x800,1x1;pos=Background_Skin;' + ad_seg + 'tile=' + ad_counter + ';' + 'ord=' + ad_ord + '?" type="text/javascript"><\/script>');
+			ad_counter++;
+		</script>
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=1280x946,300x1000,200x800,1x1;pos=Background_Skin;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=1280x946,300x1000,200x800,1x1;pos=Background_Skin;ord=123456789?" width="1280" height="946" border="0"></a>
+		</noscript>
+		<style>body:not(.us-edition):not(.uk-edition) #leftGutterContainer, body:not(.us-edition):not(.uk-edition) #rightGutterContainer {top:-220px;}</style><!-- begin header -->
+<div id="header" class="container">
+<!-- begin top-bar-->
+<div class="top-bar">
+<!-- begin uni login -->
+<script type="text/javascript">
+var returnURL = document.location.href;
+var anCV = "";
+var myEspnText = {'welcometext':'Welcome','register':'Register','signin':'Sign In','signout':'Sign Out','heliumdown':'Login Temporarily Unavailable','connectedfacebook':'Connected to Facebook','connectfacebook':'Connect with Facebook','activateinsider':'Activate Insider'};
+</script>
+<form id="form-memberarea">
+<input type="hidden" name="language" id="language" value="en"/>
+<input type="hidden" name="affiliateName" id="memberAreaAffiliateName" value="espn_fc"/>
+<input type="hidden" name="regFormId" id="regFormId" value="espn_fc"/>
+<input type="hidden" id="countryCode" value="5901"/>
+</form>
+<div class="signin" id="signin"></div>
+<script>espn.memberservices.welcome();</script>
+<div class="soccernet-logo-interior"><a href="http://espnfc.com"></a></div><div class="nav-edition editions">
+<ul class="main">
+	<li class="e-england"><a href="http://www.espn.co.uk/" name="&amp;lpos=editionsnav&amp;lid=england">ESPN.CO.UK</a></li>
+	<li class="e-usa"><a href="http://espn.go.com/" name="&amp;lpos=editionsnav&amp;lid=usa">ESPN.COM</a></li>
+	<li class="e-deportes"><a href="http://espndeportes.espn.go.com/" name="&amp;lpos=editionsnav&amp;lid=deportes">ESPNDEPORTES.COM</a></li>
+</ul>
+</div>
+
+</div>
+<!-- end top-bar -->
+<!-- begin espn-logo -->
+<div class="soccernet-logo">
+<h1>
+<a href="/league/_/id/eng.1/english-premier-league" class="section-title">English Premier League</a></h1>
+</div>
+<!-- end espn-logo -->
+<!-- begin ad -->
+<span class="presby">
+		<script type="text/javascript">
+			if(typeof ad_seg == 'undefined') {ad_seg = "";}
+			if(typeof ad_counter == 'undefined') {ad_counter = 1;}
+			document.write('<script src="http://ad.doubleclick.net/adj/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=150x45,1x1;pos=SponsoredByLogoHeader;' + ad_seg + 'tile=' + ad_counter + ';' + 'ord=' + ad_ord + '?" type="text/javascript"><\/script>');
+			ad_counter++;
+		</script>
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=150x45,1x1;pos=SponsoredByLogoHeader;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=150x45,1x1;pos=SponsoredByLogoHeader;ord=123456789?" width="150" height="45" border="0"></a>
+		</noscript>
+		</span>
+<!-- end ad -->
+<div id="shop" style="display:none; margin-left:12px"><a href="http://www.superboleteria.com" onclick="this.href=this.href+'?ref=espn_deportes&refkw=deportes+tickets'" target="_blank"><img src="http://a.espncdn.com/prod/assets/deportes/tickets_button.png" /></a></div><style>.ie6 #searchBox, .ie6 #searchBox div { display: inline; } </style><!-- begin search -->
+<div id="nav-main-search">
+<form id="searchBox" name="searchBox" action="http://search.espn.go.com/results" method="get" accept-charset="utf-8" style="color: #999999;">
+<div class="clearfix">
+<input autocomplete="off" class="text" type="text" placeholder="Search" name="searchString" id="searchString" />
+<input type="hidden" name="page" id="page" value="null" />
+<input type="hidden" name="fromForm" value="true" />
+<input class="submit" type="submit" value="" />
+</div>
+</form>
+</div>
+<!-- end search -->
+</div>
+<!-- end header -->
+</div>
+<!-- end header container -->
+<div id="subheader">
+<div id="content-wrapper">
+<div id="ad-top" class="container">
+<!-- begin Pencil_Top ad -->
+<div class="span-6 ad pencil top" style="float:none;"><div class="ad-center"><div class="ad-wrapper">
+		<script type="text/javascript">
+			if(typeof ad_seg == 'undefined') {ad_seg = "";}
+			if(typeof ad_counter == 'undefined') {ad_counter = 1;}
+			document.write('<script src="http://ad.doubleclick.net/adj/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=924x50,924x250,970x66,728x90,1x1;pos=Banner;' + ad_seg + 'tile=' + ad_counter + ';' + 'ord=' + ad_ord + '?" type="text/javascript"><\/script>');
+			ad_counter++;
+		</script>
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=924x50,924x250,970x66,728x90,1x1;pos=Banner;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=924x50,924x250,970x66,728x90,1x1;pos=Banner;ord=123456789?" width="728" height="90" border="0"></a>
+		</noscript>
+		</div></div></div>
+<!-- end Pencil_Top ad -->
+</div>
+<div id="content" class="container">
+<!-- league: eng.1 --><!-- tvinfo: true-->
+<div class="bg-opaque bg-opaque-wide">
+
+		<div class="mod-filters pad-bottom-16">
+			<h2>2012/13 Barclays Premier League Fixtures and Results</h2>
+			
+				<ul class="filters floatright">
+					<li>
+						League: </td><td></li>
+<li>
+	<FORM style="display:inline;" name=menu >
+	<select id="standings" name="url" onChange="javascript:if(this.options[this.selectedIndex].value != '?') {gotosite(this.options[this.selectedIndex].value)}" class="tablesm">
+
+	<option selected value = "">Jump To League</option><option value="http://espnfc.com/results/_/league/eng.1/season/2012/barclays-premier-league" >Barclays Premier League</option>
+<option value="http://espnfc.com/results/_/league/eng.2/season/2012/english-league-championship" >English League Championship</option>
+<option value="http://espnfc.com/results/_/league/eng.3/season/2012/english-league-one" >English League One</option>
+<option value="http://espnfc.com/results/_/league/eng.4/season/2012/english-league-two" >English League Two</option>
+<option value="http://espnfc.com/results/_/league/eng.5/season/2012/english-conference" >English Conference</option>
+</select></form>
+					</li>
+				</ul>
+				
+
+			<ul class="filters clear pad-top-6">
+
+			<li>Season: </li><li><select onChange="javascript:if(this.options[this.selectedIndex].value != '?') {gotosite(this.options[this.selectedIndex].value)}" class="tablesm">
+
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20130818/barclays-premier-league">2013/14</option>
+								
+								<option  selected="selected" value="http://espnfc.com/results/_/league/eng.1/date/20120818/barclays-premier-league">2012/13</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20110818/barclays-premier-league">2011/12</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20100818/barclays-premier-league">2010/11</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20090818/barclays-premier-league">2009/10</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20080818/barclays-premier-league">2008/09</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20070818/barclays-premier-league">2007/08</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20060818/barclays-premier-league">2006/07</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20050818/barclays-premier-league">2005/06</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20040818/barclays-premier-league">2004/05</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20030818/barclays-premier-league">2003/04</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20020818/barclays-premier-league">2002/03</option>
+								
+								<option  value="http://espnfc.com/results/_/league/eng.1/date/20010818/barclays-premier-league">2001/02</option>
+								</select>
+</li><li>
+						<select onchange="if(this.options[this.selectedIndex].value != ''){gotosite(this.options[this.selectedIndex].value);return false;}">
+							<option value="">Team</option><option value="http://espnfc.com/team/fixtures/_/id/359/arsenal">Arsenal</option><option value="http://espnfc.com/team/fixtures/_/id/362/aston-villa">Aston Villa</option><option value="http://espnfc.com/team/fixtures/_/id/363/chelsea">Chelsea</option><option value="http://espnfc.com/team/fixtures/_/id/368/everton">Everton</option><option value="http://espnfc.com/team/fixtures/_/id/370/fulham">Fulham</option><option value="http://espnfc.com/team/fixtures/_/id/364/liverpool">Liverpool</option><option value="http://espnfc.com/team/fixtures/_/id/382/manchester-city">Manchester City</option><option value="http://espnfc.com/team/fixtures/_/id/360/manchester-united">Manchester United</option><option value="http://espnfc.com/team/fixtures/_/id/361/newcastle-united">Newcastle United</option><option value="http://espnfc.com/team/fixtures/_/id/381/norwich-city">Norwich City</option><option value="http://espnfc.com/team/fixtures/_/id/334/queens-park-rangers">Queens Park Rangers</option><option value="http://espnfc.com/team/fixtures/_/id/338/reading">Reading</option><option value="http://espnfc.com/team/fixtures/_/id/376/southampton">Southampton</option><option value="http://espnfc.com/team/fixtures/_/id/336/stoke-city">Stoke City</option><option value="http://espnfc.com/team/fixtures/_/id/366/sunderland">Sunderland</option><option value="http://espnfc.com/team/fixtures/_/id/318/swansea-city">Swansea City</option><option value="http://espnfc.com/team/fixtures/_/id/367/tottenham-hotspur">Tottenham Hotspur</option><option value="http://espnfc.com/team/fixtures/_/id/383/west-bromwich-albion">West Bromwich Albion</option><option value="http://espnfc.com/team/fixtures/_/id/371/west-ham-united">West Ham United</option><option value="http://espnfc.com/team/fixtures/_/id/350/wigan-athletic">Wigan Athletic</option></select></li><li><div class="scoreboard-calendar"><div class="mod-calendar-dropdown"><a class="{date:'Sat Aug 18 2012'}" href="#">Calendar</a></div>
+				<script id="calendarCarouselJS1391737444699">
+					jQuery.getScriptCache('http://a.espncdn.com/combiner/c?js=%2Fespn%2Fsoccernet%2Fscoreboard10%2Fformat%2Fcalendar.js%3Fpage%3Dresults_link%26lang%3DEN%26league%3Deng.1%26season%3D2012%26rewrite%3Dtrue%26slug%3Denglish-premier-league%26timestamp%3D773187', function(){
+						espn.core.init.scoreboardCalendar(jQuery('#calendarCarouselJS1391737444699').siblings('.mod-scoreboard-carousel'));
+					});
+				</script>
+				</div></li>
+
+			</ul>
+
+		</div>
+
+		<div class="span-6">
+
+			<div class="col-main" id="my-teams-table">
+				<p class="prev-next-links floatright pad-top-6 pad-bottom-6">
+					<strong>
+						
+							<a href="http://espnfc.com/results/_/league/eng.1/date/20120513/english-premier-league">Previous Games</a>
+
+							 | Jul 21 - Aug 18 | 
+							<a href="http://espnfc.com/results/_/league/eng.1/date/20120819/english-premier-league">Next Games</a>
+							</strong>
+</p>
+<div class="mod-container mod-table mod-no-header-footer">
+<div class="mod-content">
+<table class="tablehead" cellpadding="3" cellspacing="1">
+<tr class="stathead"><td colspan="7">Saturday, August 18, 2012</td></tr>
+<tr class="colhead"><td width="15%">Status</td><td width="20%" align="right">Home</td><td width="10%" align="center">Score</td><td width="20%" align="left">Away</td><td width="10%" align="left">TV</td><td width="25%" align="right">Venue</td></tr>
+	<tr class="oddrow team-600-359 team-600-366">
+	<td>FT</td>
+	<td align="right"><a href="http://espnfc.com/team/_/id/359/arsenal">Arsenal</a></td>
+	<td align="center"><a href="http://espnfc.com/us/en/gamecast/345830/gamecast.html?soccernet=true&cc=5901">0-0</a></td>
+	<td align="left"><a href="http://espnfc.com/team/_/id/366/sunderland">Sunderland</a></td>
+	
+	<td align="left"></td>
+	<td align="right">Emirates Stadium (60,078)</td>
+	</tr>
+	
+	<tr class="evenrow team-600-370 team-600-381">
+	<td>FT</td>
+	<td align="right"><a href="http://espnfc.com/team/_/id/370/fulham">Fulham</a></td>
+	<td align="center"><a href="http://espnfc.com/us/en/gamecast/345829/gamecast.html?soccernet=true&cc=5901">5-0</a></td>
+	<td align="left"><a href="http://espnfc.com/team/_/id/381/norwich-city">Norwich City</a></td>
+	
+	<td align="left"></td>
+	<td align="right">Craven Cottage (25,062)</td>
+	</tr>
+	
+	<tr class="oddrow team-600-334 team-600-318">
+	<td>FT</td>
+	<td align="right"><a href="http://espnfc.com/team/_/id/334/queens-park-rangers">Queens Park Rangers</a></td>
+	<td align="center"><a href="http://espnfc.com/us/en/gamecast/345831/gamecast.html?soccernet=true&cc=5901">0-5</a></td>
+	<td align="left"><a href="http://espnfc.com/team/_/id/318/swansea-city">Swansea City</a></td>
+	
+	<td align="left"></td>
+	<td align="right">Loftus Road Stadium (18,072)</td>
+	</tr>
+	
+	<tr class="evenrow team-600-338 team-600-336">
+	<td>FT</td>
+	<td align="right"><a href="http://espnfc.com/team/_/id/338/reading">Reading</a></td>
+	<td align="center"><a href="http://espnfc.com/us/en/gamecast/345868/gamecast.html?soccernet=true&cc=5901">1-1</a></td>
+	<td align="left"><a href="http://espnfc.com/team/_/id/336/stoke-city">Stoke City</a></td>
+	
+	<td align="left"></td>
+	<td align="right">Madejski Stadium (23,973)</td>
+	</tr>
+	
+	<tr class="oddrow team-600-383 team-600-364">
+	<td>FT</td>
+	<td align="right"><a href="http://espnfc.com/team/_/id/383/west-bromwich-albion">West Bromwich Albion</a></td>
+	<td align="center"><a href="http://espnfc.com/us/en/gamecast/345827/gamecast.html?soccernet=true&cc=5901">3-0</a></td>
+	<td align="left"><a href="http://espnfc.com/team/_/id/364/liverpool">Liverpool</a></td>
+	
+	<td align="left"></td>
+	<td align="right">The Hawthorns (26,039)</td>
+	</tr>
+	
+	<tr class="evenrow team-600-371 team-600-362">
+	<td>FT</td>
+	<td align="right"><a href="http://espnfc.com/team/_/id/371/west-ham-united">West Ham United</a></td>
+	<td align="center"><a href="http://espnfc.com/us/en/gamecast/345825/gamecast.html?soccernet=true&cc=5901">1-0</a></td>
+	<td align="left"><a href="http://espnfc.com/team/_/id/362/aston-villa">Aston Villa</a></td>
+	
+	<td align="left"></td>
+	<td align="right">Upton Park (34,172)</td>
+	</tr>
+	
+	<tr class="oddrow team-600-361 team-600-367">
+	<td>FT</td>
+	<td align="right"><a href="http://espnfc.com/team/_/id/361/newcastle-united">Newcastle United</a></td>
+	<td align="center"><a href="http://espnfc.com/us/en/gamecast/345832/gamecast.html?soccernet=true&cc=5901">2-1</a></td>
+	<td align="left"><a href="http://espnfc.com/team/_/id/367/tottenham-hotspur">Tottenham Hotspur</a></td>
+	
+	<td align="left"></td>
+	<td align="right">St James' Park (52,385)</td>
+	</tr>
+	</table></div></div>
+
+			<p class="prev-next-links floatright pad-top-6 pad-bottom-6">
+				<strong>
+					
+						<a href="http://espnfc.com/results/_/league/eng.1/date/20120513/english-premier-league">Previous Games</a>
+
+						 | Jul 21 - Aug 18 | 
+						<a href="http://espnfc.com/results/_/league/eng.1/date/20120819/english-premier-league">Next Games</a>
+						</strong>
+</p></div><div class="col-160 floatleft" style="width: 160px; position: relative;">
+<div class="col-ad-160">
+
+		<script type="text/javascript">
+			if(typeof ad_seg == 'undefined') {ad_seg = "";}
+			if(typeof ad_counter == 'undefined') {ad_counter = 1;}
+			document.write('<script src="http://ad.doubleclick.net/adj/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=160x600,1x1;pos=Poster;' + ad_seg + 'tile=' + ad_counter + ';' + 'ord=' + ad_ord + '?" type="text/javascript"><\/script>');
+			ad_counter++;
+		</script>
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=160x600,1x1;pos=Poster;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/espn.espnfc.us.england/results;pgn=results;cc=5901;league=eng1;grp=360551;sz=160x600,1x1;pos=Poster;ord=123456789?" width="160" height="600" border="0"></a>
+		</noscript>
+		</div>
+</div>
+
+
+
+	</div> <!-- closes span-6 -->
+</div> <!-- closes bg-opaque -->
+
+</div>
+<div id="nav-wrapper" class="container">
+<div id="nav-wrapper-container">
+<div id="main-nav-container" class="container">
+<div id="nav-main">
+<ul class="top" id="nav-main-list">
+<!-- begin site nav -->
+<!-- start: Menuitem :: NEWS -->
+
+	<li class="sport-menu default t-news" id="menu-news">
+		<a href="http://espnfc.com/news/archive" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_news">NEWS &amp; FEATURES</a></li>
+	<!-- start: Menuitem :: VIDEO-->
+	<li class="sport-menu default t-watchus" id="menu-watchus">
+		<a href="http://espnfc.com/video/espnfc/index?league=latest" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_video">WATCH</a></li>
+	<!-- start: Menuitem :: RESULTS -->
+	<li class="sport-menu default t-results" id="menu-results">
+		<a href="http://espnfc.com/scores" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_results">FIXTURES &amp; RESULTS</a></li>
+	<!-- start: Menuitem :: PREMIER -->
+	<li class="sport-menu default t-premier selected" id="menu-premier">
+		<a href="http://espnfc.com/league/_/id/eng.1/english-premier-league" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_premier">EPL</a></li>
+	<!-- start: Menuitem :: WORLD CUP -->
+	<li class="sport-menu default t-worldcup" id="menu-worldcup">
+		<a href="http://espnfc.com/league/_/id/fifa.world" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_worldcup">WORLD CUP</a></li>
+	<!-- start: Menuitem :: ENGLAND  -->
+	<li class="sport-menu default t-england" id="menu-england">
+		<a href="http://espnfc.com/team/_/id/448/england" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_england">ENGLAND</a></li>
+	<!-- start: Menuitem :: USA -->
+	<li class="sport-menu default t-usa" id="menu-usa">
+		<a href="http://espnfc.com/team/_/id/660/united-states" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_usa">USA</a></li>
+	<!-- start: Menuitem :: MEXICO -->
+	<li class="sport-menu default t-mexico" id="menu-mexico">
+		<a href="http://espnfc.com/team/_/id/203/mexico" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_mexico">MEXICO</a></li>
+	<!-- start: Menuitem :: UCL -->
+	<li class="sport-menu default t-ucl" id="menu-ucl">
+		<a href="http://espnfc.com/league/_/id/uefa.champions/uefa-champions-league" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_ucl">UCL</a></li>
+	<!-- start: Menuitem :: EUROPE -->
+	<li class="sport-menu default t-europe" id="menu-europe">
+		<a href="http://espnfc.com/section/_/id/europe" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_europe">EUROPE</a></li>
+	<!-- start: Menuitem :: GLOBAL -->
+	<li class="sport-menu default t-global" id="menu-global">
+		<a href="http://espnfc.com/section/_/id/global" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_global">GLOBAL</a></li>
+	<!-- start: Menuitem :: FANTASY -->
+	<li class="sport-menu default t-fantasy" id="menu-fantasy">
+		<a href="http://fantasy.soccernet.com" name="&amp;lpos=sitenavdefault&amp;lid=sitenav_fantasy">FANTASY</a></li>
+
+<!-- end site nav -->
+</ul>
+</div>
+</div>
+</div>
+<div id="sub-nav-container">
+<div class="nav-main-secondary">
+<!-- indexPubKey: england-index --><!-- lteam:  --><!-- lleague: eng.1 --><div class="nav-main-secondary">
+<ul><ul>
+	<li class="expandable">
+		<a href="http://soccernet.espn.go.com/league/_/id/eng.1/barclays-premier-league" name="&amp;lpos=subnav&amp;lid=subnav_Concacaf_scores"><span>Premier League Home</span></a>
+		<div>
+			<dl class="last">
+				<dt class="first">
+					&nbsp;</dt>
+				<dd>
+					<a href="http://soccernet.espn.go.com/league/_/id/eng.2/english-championship">Championship</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/league/_/id/eng.3/english-league-one">League One</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/league/_/id/eng.4/english-league-two">League Two</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/league/_/id/eng.5/english-conference">Conference</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/league/_/id/eng.fa/english-fa-cup">FA Cup</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/league/_/id/eng.worthington/english-carling-cup">Carling Cup</a></dd>
+			</dl>
+		</div>
+	</li>
+	<li>
+		<a href="http://soccernet.espn.go.com/news/archive/_/league/eng.1/english-premier-league-news-archive">News</a></li>
+	<li>
+		<a href="http://soccernet.espn.go.com/feature/archive/_/league/eng.1/english-premier-league-feature-archive">Features</a></li>
+	<li class="expandable">
+		<a href="http://soccernet.espn.go.com/clubs/_/league/eng.1/english-premier-league" name="&amp;lpos=subnav&amp;lid=subnav_Concacaf_scores"><span>Clubs</span></a>
+		<div>
+			<dl>
+				<dt class="first">
+					&nbsp;</dt>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/359/arsenal">Arsenal</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/362/aston-villa">Aston Villa</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/347/cardiff-city">Cardiff</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/363/chelsea">Chelsea</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/384/crystal-palace">Crystal Palace</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/368/everton">Everton</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/370/fulham">Fulham</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/306/hull-city">Hull City</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/364/liverpool">Liverpool</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/382/manchester-city">Manchester City</a></dd>
+			</dl>
+			<dl class="last">
+				<dt class="first">
+					&nbsp;</dt>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/360/manchester-united">Manchester United</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/361/newcastle-united">Newcastle</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/381/norwich-city">Norwich City</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/376/Southampton">Southampton</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/336/stoke-city">Stoke</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/366/sunderland">Sunderland</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/318/swansea-city">Swansea City</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/367/tottenham-hotspur">Tottenham</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/383/west-bromwich-albion">West Brom</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/team/_/id/371/west-ham-united">West Ham</a></dd>
+			</dl>
+		</div>
+	</li>
+	<li>
+		<a href="http://soccernet.espn.go.com/fixtures/_/league/eng.1/english-premier-league">Fixtures</a></li>
+	<li>
+		<a href="http://soccernet.espn.go.com/results/_/league/eng.1/english-premier-league">Results</a></li>
+	<li>
+		<a href="http://soccernet.espn.go.com/tables/_/league/eng.1/english-premier-league">Table</a></li>
+	<li class="expandable">
+		<a href="http://soccernet.espn.go.com/stats/scorers/_/league/eng.1/english-premier-league" name="&amp;lpos=subnav&amp;lid=subnav_Concacaf_scores"><span>Stats</span></a>
+		<div>
+			<dl class="last">
+				<dt class="first">
+					&nbsp;</dt>
+				<dd>
+					<a href="http://soccernet.espn.go.com/stats/_/league/eng.1/english-premier-league?cc=5739">Premier League </a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/stats/scorers/_/league/eng.1/english-premier-league">Top scorers</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/stats/assists/_/league/eng.1/english-premier-league?cc=5739">Assists</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/stats/discipline/_/league/eng.1/english-premier-league?cc=5739">Player Discipline</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/stats/fairplay/_/league/eng.1/english-premier-league?cc=5739">Fair Play</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/stats/attendance/_/league/eng.1/english-premier-league?cc=5739">Attendance</a></dd>
+				<dd>
+					<a href="http://soccernet.espn.go.com/stats/actim/_/league/eng.1/english-premier-league?cc=5739">Actim Index</a></dd>
+			</dl>
+		</div>
+	</li>
+	<li>
+		<a href="http://soccernet.espn.go.com/transfers?cc=5901">Transfers</a></li>
+	<li class="expandable">
+		<a href="http://soccernet.espn.go.com/et/corr/correspondents?league=eng.1" name="&amp;lpos=subnav&amp;lid=subnav_Concacaf_scores"><span>Blogs</span></a>
+		<div>
+			<dl>
+				<dt class="first">
+					&nbsp;</dt>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/arsenal?cc=5739">Arsenal</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/astonvilla?cc=5739">Aston Villa</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/cardiff-city?cc=5739">Cardiff</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/chelsea?cc=5739">Chelsea</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/crystalpalace?cc=5739">Crystal Palace</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/everton?cc=5739">Everton</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/fulham?cc=5739">Fulham</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/hullcity?cc=5739">Hull City</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/liverpool?cc=5739">Liverpool</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/manchestercity?cc=5739">Manchester City</a></dd>
+			</dl>
+			<dl class="last">
+				<dt class="first">
+					&nbsp;</dt>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/manchesterunited?cc=5739">Manchester United</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/newcastleunited?cc=5739">Newcastle</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/norwichcity?cc=5739">Norwich City</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/southampton?cc=5739">Southampton</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/stokecity?cc=5739">Stoke</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/sunderland?cc=5739">Sunderland</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/swanseacity?cc=5739">Swansea City</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/tottenham?cc=5739">Tottenham</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/westbromwichalbion?cc=5739">West Brom</a></dd>
+				<dd>
+					<a href="http://espnfc.com/blog/_/name/westhamunited?cc=5739">West Ham</a></dd>
+			</dl>
+		</div>
+	</li>
+	<li>
+		<a href="http://soccernet.espn.go.com/photos/index/_/league/eng.1">Galleries</a></li>
+	<li>
+		<a href="http://soccernet.espn.go.com/feature?id=844596&amp;sec=england&amp;cc=5739">History</a></li>
+	<li>
+		<a href="/news/story/_/id/1522201/premier-showdown-predict-premier-league-scores-game">Showdown</a></li>
+</ul>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>espn.core.init.nav();</script><div id="footer" class="container">
+<script type="text/javascript">
+	function reportBugSoccernet() {
+		window.open('http://dynamic.espn.go.com/espn/bugs?url=' + escape(window.location), 'Bugs', 'noresizable,noscrollbars,height=400,width=400');
+	}
+</script>
+
+<span style="font-weight:bold;">ESPN FC:</span>
+<a href="http://sports.espn.go.com/espn/news/story?page=help/index">Help</a> | 
+<a href="http://espnmediazone.com/us/" r4el="nofollow">Press</a> | 
+<a href="http://www.espncms.com" rel="nofollow">Sales Media Kit</a> | 
+<a href="http://preferences.truste.com/2.0/?type=espn&affiliateId=148" onclick="window.open('http://preferences.truste.com/2.0/?type=espn&affiliateId=148','popup','width=986,height=878,scrollbars=yes,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">Interest-Based Ads</a> | 
+<a href="http://espn.go.com/espn/news/story?page=patents" rel="nofollow">Patents</a> | 
+
+<a href="http://dynamic.espn.go.com/espn/bugs?url=none" onclick="reportBugSoccernet(); return false;">Report a Bug</a> | 
+
+<a href="https://r.espn.go.com/members/contact/index">Contact Us</a> | 
+<a href="http://sports.espn.go.com/espn/sitemap">Site Map</a> | 
+<a href="http://www.joinourteam.espn.com">Jobs at ESPN</a> | 
+<a href="http://corporate.disney.go.com/corporate/sourcing.html" rel="nofollow"><span style="font-weight:bold;">Supplier Information</span></a>
+
+<br/>
+&copy;2013 ESPN Internet Ventures. 
+
+<a href="http://disneytermsofuse.com" rel="nofollow">Terms of Use</a>, and 
+<a href="http://disneyprivacycenter.com" rel="nofollow">Privacy Policy and Safety Information/Your California Privacy Rights</a> are applicable to you. All rights reserved.
+</div>
+<!--[if lte IE 8]></div><![endif]-->
+</div>
+
+
+<!-- SiteCatalyst code version: H.21.3 Copyright 1997-2010 Omniture, Inc. http://www.omniture.com -->
+<script type="text/javascript">
+	var undef = 'undefined'
+	,s_account="wdgespsoccernet"
+	,omniPageName = "soccernet:england:english+premier+league-eng.1:results"	
+	
+	,insiderStatus = ""
+	,anGen = ""
+	,anYear = ""
+	,anDateString = ""
+	,anLoginStatus = ""
+	,callOmniture = function(){
+		/*-- core story s_omni properties --*/
+		if (typeof anCV != "undefined"){anParseLoginBarInfo(anCV);}
+		s_omni.pageName="england:english+premier+league-eng.1:results";
+		s_omni.server = window.location.host; // Server from the Host
+		s_omni.channel = "england";
+		s_omni.prop1 = "soccernet";
+		s_omni.prop4 = "results";
+		s_omni.prop5 = "england:english+premier+league-eng.1";
+		s_omni.prop11 = (insiderStatus !== null) ? insiderStatus + ":premium-no" : "premium-no";
+		s_omni.prop16 = "5901";
+		s_omni.prop17 = "en_uk";
+		s_omni.prop21 = anDateString;
+		s_omni.prop22 = anGen;
+		s_omni.prop25 = "soccer";
+		s_omni.prop26 = "england-eng.1";
+		s_omni.prop29 = anLoginStatus;
+		s_omni.prop30 = "n";
+		s_omni.hier1 = "england:english+premier+league-eng.1:results";
+		s_omni.eVar7 = anYear + ":" + anGen + ":" + anLoginStatus + ":" + s_omni.prop11 + ":";
+		s_omni.eVar9 = "en_uk";
+		s_omni.eVar12 = "5901";
+		s_omni.eVar13 = "england:english+premier+league-eng.1:results";
+		s_omni.eVar19 = "soccer";
+		s_omni.eVar21 = "england-eng.1";
+		
+		if (s_omni.prop11=="anonymous:premium-yes" || s_omni.prop11=="insider-no:premium-yes" && typeof s_omni.prop4!="undefined" &&
+			(s_omni.prop4=="story" || s_omni.prop4=="blog")) {
+			if (typeof s_omni.events != "undefined" && s_omni.events!="") {
+				s_omni.events = s_omni.events+",event8" }
+			else { s_omni.events="event8" }
+		}
+		anDebugCase = "ver_15Feb11_0_";
+		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+		
+		var s_code = s_omni.t();
+		if(s_code) {
+			var sci = new Image(1,1);
+			sci.onload = function() {console.log("loaded no append")};
+			sci.src = s_code;
+		}
+		
+	};
+	
+
+
+	if (typeof(s_omni) === 'undefined') {
+		jQuery(function($) {
+			// we want to load the analytics files from the cache if possible - so, let's use full $.ajax() calls
+			$.ajax({
+				type:'GET',
+				url: 'http://a.espncdn.com/combiner/c?js=analytics/sOmni.js,analytics/analytics.js,analytics/externalnielsen.js',
+				dataType: 'script',
+				cache: true,
+				success: function() {
+					var lgSrc;
+					if(typeof anCV !== undef && anCV === '' && document.getElementById('form-memberarea') != null) {
+						lgSrc = 'https://r.espn.go.com/members/util/getUserInfo?cb=runOmnitureIndependently';
+						$.getScript(lgSrc); // we don't want this to be cached - so we'll use the $.getScript() method
+					} else {
+						callOmniture();
+					}
+				}
+			});
+		});
+	}
+
+
+</script>
+<!-- End SiteCatalyst code version: H.21. -->
+	<script>
+	    var _sf_async_config={};
+	    /** CONFIGURATION START **/
+	    _sf_async_config.uid = 22222;
+	    _sf_async_config.domain = 'espnfc.com';
+	    _sf_async_config.sections = 'eng1';
+	    _sf_async_config.authors = 'results';
+	    _sf_async_config.useCanonical = true;
+	    /** CONFIGURATION END **/
+	    (function(){
+	      function loadChartbeat() {
+	        window._sf_endpt=(new Date()).getTime();
+	        var e = document.createElement('script');
+	        e.setAttribute('language', 'javascript');
+	        e.setAttribute('type', 'text/javascript');
+	        e.setAttribute('src',
+	           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+	           'js/chartbeat.js');
+	        document.body.appendChild(e);
+	      }
+	      var oldonload = window.onload;
+	      window.onload = (typeof window.onload != 'function') ?
+	         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	    })();
+	</script>
+	<script type="text/javascript">
+	var isInIFrame = (window.location != window.parent.location) ? true : false;
+	if(isInIFrame){ if(document.referrer){ if(document.referrer.indexOf(".go.com")==-1){ top.location.href=self.location.href; } } }
+</script>
+
+	<!--
+	Start of DoubleClick Floodlight Tag: Please do not remove
+	Activity name of this tag: ESPN FC - Homepage
+	Creation Date: 07/11/2011
+	-->
+	<script type="text/javascript">
+		var doubleClickActivityRand = Math.random()*10000000000000000;
+		var doubleClickActivity = document.createElement("iframe");
+
+		doubleClickActivity.setAttribute('width', '1');
+		doubleClickActivity.setAttribute('height', '1');
+		doubleClickActivity.setAttribute('frameborder', '1');
+		doubleClickActivity.setAttribute('style', 'display:none;');
+		document.body.appendChild(doubleClickActivity);
+		doubleClickActivity.setAttribute('src', 'http://fls.doubleclick.net/activityi;src=3252183;type=espnc959;cat=espns145;u1=5901;ord=' + doubleClickActivityRand + '?');
+	</script>
+	<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+	<script src="http://js.revsci.net/gateway/gw.js?csid=H11231&auto=t"></script>
+
+<!-- 
+    host:   
+    time:   20140206174404PST
+    server: N7ESPNAPP420.mgmt.prod
+    port:   3717
+-->
+
+</body>
+</html>
