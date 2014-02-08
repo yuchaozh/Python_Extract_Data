@@ -1,6 +1,7 @@
 import urllib2;
 import re;
 import csv;
+import Lineup;
 from bs4 import BeautifulSoup
 
 
@@ -67,7 +68,7 @@ def writeCSV_init():
     fileWriter.writerow(['Home', 'Score', 'Away']);
 
 def writeCSV(bDate, bHome, bScore, bAway):
-    fileWriter = csv.writer(open('score.csv', 'ab'));
+    fileWriter = csv.writer(open('lineup.csv', 'ab'));
     # for i in bHome:
     #     for a in bScore:
     #         for b in bAway:
@@ -75,12 +76,11 @@ def writeCSV(bDate, bHome, bScore, bAway):
     for i in range(len(bHome)):
         fileWriter.writerow([bHome[i]] + [bScore[i]] + [bAway[i]]);
 
-
 page = 20120815;
-writeCSV_init();
+#writeCSV_init();
 battleDate = [];
 battleDate.append('Friday, August 17, 2012');
-while page <= 20130519:
+while page <= 20120830:
     page = str(page);
     response = urllib2.urlopen('http://espnfc.com/results/_/date/'+page+'/league/eng.1/english-premier-league?cc=5901');
     html = response.read();
@@ -89,11 +89,17 @@ while page <= 20130519:
     battleScore = [];
     battleLinks = [];
     battleAway = [];
+    homePosition = [];
+    homeID = [];
+    homeName = [];
+    awayPosition = [];
+    awayID = [];
+    awayName = [];
     #print soup.prettify();
-    print "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
+    #print "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
     for a in soup.find_all('table'):
         #print a, "\n";
-        print "Date: ", extractDate(a);
+        #print "Date: ", extractDate(a);
         if existDate(battleDate, extractDate(a)) == "true":
             print "same\n";
         else: 
@@ -110,6 +116,8 @@ while page <= 20130519:
             battleAway = extractAway(a);
             #for i in range(len(battleAway)):
             #    print "Away: ", battleAway[i];
-            writeCSV(battleDate, battleHome, battleScore, battleAway);
+
+            #writeCSV(battleDate, battleHome, battleScore, battleAway);
+            Lineup.main_1(battleLinks, battleHome, battleAway);
     page = int(page);
     page = page + 15;
