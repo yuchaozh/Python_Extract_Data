@@ -18,25 +18,18 @@ def extractID(table):
     #print table, "\n";
     ids = [];
     member = table.find_all("td", "first");
-    #print member;
-    #for i in range (0, 11):
     for a in member:
-        #print member[i];
-        #cont = member[i].next_sibling.next_sibling.string;
-        #print cont;
+        #print a;
         ids.append(a.next_sibling.next_sibling.string);
         #print a.next_sibling.next_sibling.string;
     return ids;
 
 def myfunction(text):
-    # try:
-    #     text = unicode(text);
-    #     text = text.encode("ascii",'ignore');
-    # except TypeError:
-    # return text;
-    text = unicode(text);
-    text = text.encode("ascii",'ignore');
-    return text;
+    try:
+        text = unicode(text, 'ISO-8859-1');
+        text = text.encode('ascii');
+    except TypeError:
+        return text
 
 def extractName(table):
     #print table, "\n"
@@ -47,7 +40,6 @@ def extractName(table):
         #uName = unicode (isoName, "ISO-8859-1");
         #name = uName.encode ("ascii");
         name = myfunction(isoName);
-        #print "type: ", type(name);
         names.append(name);
     return names;
 
@@ -97,16 +89,7 @@ def main_1(pageUrl, home, away):
     #print pageUrl;
     for i in range(len(pageUrl)):
         #print pageUrl[i];
-        #pageID = pageUrl[i][33:39];
-        pageID = pageUrl[i].split('/');
-        pageID = pageID[6];
-        if pageID == '345601':
-            continue;
-        if pageID == '369175':
-            continue;
-        if pageID == '367247':
-            continue;
-        print pageID;
+        pageID = pageUrl[i][33:39];
         pageID = str(pageID);
         newUrl = 'http://espnfc.com/us/en/gamecast/statistics/id/'+pageID+'/statistics.html?soccernet=true&cc=5901';
         #print newUrl;

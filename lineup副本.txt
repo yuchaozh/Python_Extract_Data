@@ -15948,28 +15948,3 @@ M  20  Ross Barkley
 M  22  Steven Pienaar
 M  25  Marouane Fellaini
 F  28  Victor Anichebe
-
-Everton  VS.  Crystal Palace:
-G  24  Tim Howard
-D  3  Leighton Baines
-D  6  Phil Jagielka
-D  15  Sylvain Distin
-D  23  Seamus Coleman
-M  7  Aiden McGeady
-M  16  James McCarthy
-M  18  Gareth Barry
-M  21  Leon Osman
-M  22  Steven Pienaar
-F  14  Steven Naismith
---------------------------
-G  1  Julian Speroni
-D  2  Joel Ward
-D  4  Jonathan Parr
-D  6  Scott Dann
-D  27  Damien Delaney
-M  8  Kagisho Dikgacoi
-M  13  Jason Puncheon
-M  15  Mile Jedinak
-M  28  Joe Ledley
-F  11  Thomas Ince
-F  29  Marouane Chamakh

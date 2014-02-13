@@ -80,10 +80,15 @@ page = 20120815;
 #writeCSV_init();
 battleDate = [];
 battleDate.append('Friday, August 17, 2012');
-while page <= 20120830:
+while page <= 20130519:
     page = str(page);
-    response = urllib2.urlopen('http://espnfc.com/results/_/date/'+page+'/league/eng.1/english-premier-league?cc=5901');
-    html = response.read();
+    print page;
+    try:
+        response = urllib2.urlopen('http://espnfc.com/results/_/date/'+page+'/league/eng.1/english-premier-league?cc=5901');
+        #response = urllib2.urlopen('http://espnfc.com/results/_/date/2012916/league/eng.1/english-premier-league?cc=5901');
+        html = response.read();
+    except urllib2.HTTPError, error:
+        html = error.read();
     soup = BeautifulSoup(html);
     battleHome = [];
     battleScore = [];
@@ -121,3 +126,24 @@ while page <= 20120830:
             Lineup.main_1(battleLinks, battleHome, battleAway);
     page = int(page);
     page = page + 15;
+    # num = page % 100;
+    # numMonth = page % 10000;
+    # if num >= 40:
+    #     page = page - 48 + 100;
+    # if numMonth >= 1300:
+    #     page = page - 1308 + 10000;
+    # except urllib2.HTTPError, error:
+    #     print "error\n", page;
+    #     html = error.read();
+    #     soup = BeautifulSoup(html);
+    #     print(soup.prettify());
+    #     page = int(page);
+    #     page = page + 16;
+    #     num = page % 100;
+    #     numMonth = page % 10000;
+    #     if num >= 40:
+    #         page = page - 48 + 100;
+    #     if numMonth >= 1300:
+    #         page = page - 1308 + 10000;
+    #     contents = error.read();
+    #     continue;
