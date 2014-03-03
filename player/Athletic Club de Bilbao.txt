@@ -1,0 +1,33 @@
+1,Iraizoz,74
+15,Iraola,78
+18,Gurpegi,75
+4,A. Laporte,72
+24,Balenziaga,75
+8,Iturraspe,77
+17,Mikel Rico,75
+21,Ander Herrera,79
+14,Susaeta,78
+20,Aduriz,79
+19,Munian,77
+6,Mikel San Jos,76
+22,Saborit,65
+5,Erik Morn,67
+23,Ekiza,74
+28,Guillermo,64
+12,Albizua,62
+11,Ibai Gmez,76
+10,De Marcos,77
+13,Herrern,68
+2,Toquero,70
+9,Kike Sola,73
+7,Beat,80
+42,Williams,60
+32,scar Gil,60
+3,Iigo Prez,72
+35,Mario Barco,60
+37,Aketxe,61
+36,Iker Guarrotxena,57
+29,Etxeberra,61
+26,Kepa Arrizabalaga,66
+16,Etxeita,71
+27,Magunazelaia,59

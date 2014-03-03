@@ -1,0 +1,30 @@
+13,Beto,78
+23,Coke,74
+2,F. Fazio,78
+21,N. Pareja,75
+3,Fernando Navarro,74
+20,Vitolo,73
+11,I. Rakiti,81
+6,Daniel Carrio,74
+14,Alberto Moreno,74
+9,C. Bacca,77
+18,K. Gameiro,78
+17,Jairo,69
+16,D. Cheryshev,72
+30,Israel Puerto,67
+8,S. Cristforo,72
+5,Diogo Figueiras,71
+19,Reyes,77
+1,Javi Varas,76
+7,M. Marin,78
+22,S. M'Bia,75
+15,P. Trochowski,75
+12,Iborra,77
+24,Cicinho,72
+29,Sergio Rico,58
+35,Garrido,57
+31,Luismi,59
+28,Moi,58
+26,Mode,59
+27,Cotn,59
+33,Carlos Fernndez,56

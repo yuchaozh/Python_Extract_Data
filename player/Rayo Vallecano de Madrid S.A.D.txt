@@ -1,0 +1,33 @@
+13,Rubn,72
+21,Arbilla,70
+18,Z Castro,72
+22,Sal,71
+15,R. Ra,73
+4,Baena,74
+10,Trashorras,76
+7,L. Bangoura,76
+24,Iago Falqu,72
+23,Bueno,74
+20,J. Larrivey,71
+12,S. Longo,66
+3,Nacho,73
+17,L. Galeano,72
+26,J. Mojica,67
+32,Adri Embarba,57
+11,N. Castillo,68
+5,Glvez,74
+19,Jonathan Viera,75
+2,Tito,74
+16,Rubn Rochina,68
+1,Cobeo,73
+8,Adrin Gonzlez,69
+28,C. Flrez,56
+27,C. Cueva,68
+39,Isi,56
+25,S. Fernndez,72
+40,Borja Lpez,70
+29,Nono,59
+14,Alberto Perea,68
+30,Ismael,59
+9,Jose Carlos,75
+31,Mario,55

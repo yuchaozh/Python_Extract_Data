@@ -1,0 +1,30 @@
+1,Moy,77
+20,Valera,75
+2,Alexis,75
+15,Rafa,72
+3,Roberto Lago,73
+23,Borja,72
+21,Michel,73
+14,Pedro Len,79
+17,Diego Castro,76
+8,Pablo Sarabia,70
+7,Lafita,75
+9,C. Marica,73
+4,L. Lpez,73
+19,Sammir,72
+25,Fornies,60
+28,Vigaray,57
+18,Escudero,70
+24,Mosquera,70
+13,Codina,71
+22,Juan Rodriguez,71
+11,Adrin Colunga,74
+5,M. Lacen,73
+10,Gaviln,73
+29,Manu Torres,62
+31,Galvn,57
+26,Jess Pastor,59
+27,Javi Navas,62
+12,Arroyo,65
+32,Jos,57
+30,Jorge Sez,59

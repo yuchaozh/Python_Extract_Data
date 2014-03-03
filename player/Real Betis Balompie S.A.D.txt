@@ -1,0 +1,33 @@
+1,Adn,71
+11,Juanfran,72
+4,Amaya,75
+18,A. N'Diaye,65
+12,Ddac,74
+20,Nosa,76
+8,Nono,70
+6,Leo Baptistao,76
+22,Cedrick,71
+14,Salva Sevilla,74
+24,Rubn Castro,79
+13,G. Sara,71
+9,Chuli,69
+21,L. Reyes,67
+17,Juan Carlos,72
+7,Vadillo,70
+2,Chica,73
+25,Jordi Figueras,73
+23,Nacho,74
+3,Paulo,75
+15,D. Perquis,74
+19,Jorge Molina,75
+10,Verd,79
+36,Caro,64
+30,Javi Montoya,59
+35,Abeledo,57
+42,Varela,59
+16,B. Rodrguez,68
+28,Vilarchao,64
+34,Carlos Garca,60
+5,Matilla,71
+38,Xavi Torres,75
+37,Juanma,57

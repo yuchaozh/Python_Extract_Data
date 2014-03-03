@@ -1,0 +1,23 @@
+25,Diego Lpez,84
+17,Arbeloa,77
+3,Pepe,83
+4,Sergio Ramos,86
+12,Marcelo,83
+14,Xabi Alonso,85
+11,G. Bale,87
+19,L. Modri,86
+22,A. Di Mara,86
+7,Cristiano Ronaldo,92
+9,K. Benzema,85
+18,Nacho Fernndez,71
+21,Morata,76
+2,R. Varane,81
+20,Jes Rodrguez,76
+16,C. Casemiro,75
+23,Isco,84
+13,Jess,66
+24,Illarramendi,80
+6,S. Khedira,84
+1,Casillas,86
+5,Fbio Coentro,79
+15,Carvajal,77

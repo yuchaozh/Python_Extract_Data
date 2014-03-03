@@ -1,0 +1,33 @@
+1,Sergio Asenjo,74
+2,Mario Gaspar,70
+5,M. Musacchio,76
+20,Gabriel,72
+18,Jaume Costa,70
+17,J. Aquino,73
+14,Manu Trigueros,70
+21,Bruno,80
+27,Moi Gmez,70
+8,I. Uche,74
+9,G. dos Santos,80
+19,liver Torres,74
+6,A. Pantic,70
+29,Pablo Iiguez,64
+12,Joan Romn,66
+16,Dorado,71
+4,Toms Pina,75
+44,N. Leiva,64
+10,Cani,75
+7,J. Perbet,72
+25,Juan Carlos,70
+24,Jonathan Pereira,68
+3,B. Joki,74
+37,J. Espericueta,66
+26,E. Alic,62
+32,Diego Jimnez,59
+38,E. Flores,64
+28,Edu Ramos,61
+36,Juanto,57
+30,Pablo Gonzlez,59
+35,Aitor,62
+31,Blzquez,62
+39,Jorge Ort,63

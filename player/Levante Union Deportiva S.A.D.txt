@@ -1,0 +1,32 @@
+1,K. Navas,77
+6,L. Vyntra,75
+4,David Navarro,75
+12,Juanfran,74
+15,N. Karampelas,70
+23,P. Diop,76
+24,Simao Mate,72
+11,Rubn Garca,74
+21,A. Ivanschitz,76
+3,Vctor,71
+7,David Barral,73
+17,Xumetra,73
+10,P. Diawara,73
+16,I. El Adoua,71
+5,Hctor Rodas,69
+13,Javi Jimnez,67
+8,N. El Zhar,74
+20,Pedro Ros,72
+22,M. Sissoko,73
+19,Pedro Lpez,73
+25,Nagore,69
+9,ngel,68
+18,Srgio Pinto,73
+26,Jason,59
+37,Camarasa,63
+41,Jero,57
+33,Jordi Csar,61
+28,Expsito,60
+29,Hign,61
+27,Leandro,59
+14,Pallard,65
+32,Kike Torrent,58

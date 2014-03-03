@@ -1,0 +1,26 @@
+13,Yoel,70
+2,Hugo Mallo,74
+22,G. Cabral,71
+15,Aurtenetxe,73
+19,Jonny,70
+3,Fonts,73
+12,Rafinha,71
+24,A. Fernndez,76
+23,M. Krohn-Dehli,75
+14,F. Orellana,72
+11,Charles,76
+30,David Costas,68
+17,L. Madinda,67
+29,Santi Mina,66
+33,Javi Rey,59
+10,Nolito,76
+20,Toni,66
+9,Mario Bermejo,68
+1,Sergio,68
+21,igo Lpez,71
+8,Alex Lpez,73
+25,Welliton,75
+4,Borja Oubia,75
+26,Rubn Blanco,65
+28,Antn De Vicente,58
+27,Juan Delgado,59

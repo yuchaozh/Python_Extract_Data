@@ -1,0 +1,30 @@
+1,Esteban,73
+20,Rafita,67
+5,Trujillo,69
+2,M. Torsiglieri,73
+16,S. Dubarbier,70
+7,Verza,70
+31,R. Azeez,62
+8,Aleix Vidal,71
+17,Suso,74
+23,Soriano,72
+10,Rodri,72
+19,J. Zongo,63
+25,Julin,62
+3,M. Silva,68
+29,Kiu,62
+22,Nlson,72
+4,H. Martnez,70
+15,Corona,66
+6,Tbar,71
+32,Dani Romera,60
+21,Man,68
+9,scar Daz,68
+11,Hlder Barbosa,74
+35,Cristobal,61
+37,S. Iriarte,60
+28,Bonaque,61
+34,H. Khaloua,63
+26,Vctor Ibaez,60
+27,Mario Martos,57
+30,Sergio Iglesias,60

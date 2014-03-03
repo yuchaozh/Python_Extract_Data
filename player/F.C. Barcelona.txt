@@ -1,0 +1,25 @@
+1,Victor Valds,83
+22,Dani Alves,84
+15,Marc Bartra,76
+14,J. Mascherano,84
+18,Jordi Alba,82
+16,Sergio Busquets,85
+6,Xavi,88
+8,Iniesta,89
+10,L. Messi,94
+7,Pedro,84
+11,Neymar,84
+2,Montoya,77
+24,Sergi Roberto,74
+20,Cristian Tello,79
+9,A. Snchez,82
+23,Isaac Cuenca,75
+5,Puyol,83
+13,Pinto,72
+3,Piqu,86
+17,A. Song,83
+19,I. Afellay,79
+4,Cesc Fbregas,86
+21,Adriano,77
+12,J. Dos Santos,73
+25,Oier,66

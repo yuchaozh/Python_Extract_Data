@@ -1,0 +1,33 @@
+13,W. Caballero,79
+2,Jess Gmez,79
+21,Sergio Snchez,75
+15,M. Angeleri,72
+5,Antunes,76
+6,Camacho,74
+12,F. Tissone,74
+10,O. Iakovenko,69
+23,N. Amrabat,76
+17,Duda,73
+9,R. Santa Cruz,76
+24,Samuel,63
+30,Sergi Darder,67
+18,Eliseu,78
+4,Flvio Ferreira,72
+11,P. Prez,76
+26,Juanmi,69
+8,Portillo,76
+14,P. Morales,74
+20,Casado,74
+3,Weligton,78
+7,M. El Hamdaoui,74
+1,C. Kameni,75
+31,Jurado,61
+32,Cristian,56
+34,J. Aor,57
+16,E. Rescaldani,70
+39,Mauri,54
+46,lex Portillo,54
+43,Samu Castillejo,62
+36,J. Valencia,57
+19,B. Pawowski,68
+33,Aarn,59

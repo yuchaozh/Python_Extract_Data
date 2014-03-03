@@ -1,0 +1,31 @@
+1,Diego Alves,81
+19,Barragn,71
+20,Ricardo Costa,78
+22,J. Mathieu,78
+14,Bernat,71
+11,S. Keita,77
+24,Mchel,70
+8,S. Feghouli,81
+28,F. Cartabia,72
+17,E. Vargas,78
+16,Paco Alccer,71
+33,Salva Ruz,63
+12,Joo Pereira,79
+3,Rben Vezo,69
+25,Vincius Arajo,71
+6,Oriol Romeu,72
+21,Parejo,77
+5,Vctor Ruz,77
+4,P. Senderos,71
+15,Javi Fuego,79
+7,Jonas,81
+13,Guaita,79
+2,P. Piatti,76
+27,Robert,58
+36,Gay,64
+31,lex Snchez,59
+30,Portu,64
+29,H. Ibusuki,62
+34,Manu Molina,63
+32,Carlos Delgado,67
+26,Jaume,61

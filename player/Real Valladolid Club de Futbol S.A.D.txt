@@ -1,0 +1,31 @@
+13,Diego Mario,71
+2,A. Rukavina,75
+15,S. Mitrovi,68
+6,Jess Rueda,72
+17,Pea,69
+18,lvaro Rubio,73
+5,F. Rossi,72
+11,D. Larsson,68
+14,Omar Ramos,74
+10,scar,77
+9,Javi Guerra,73
+19,V. Rama,66
+7,H. Osorio,65
+31,Jorge Pesca,62
+8,Javier Baraja,68
+21,Z. Bergdich,67
+22,Vctor Prez,75
+24,Jeffrn,72
+1,Jaime,73
+4,Marc Valiente,74
+23,Manucho,73
+16,Sastre,70
+3,H. Barmettler,68
+43,Vadillo,59
+38,Ruba,57
+34,Zubi,58
+32,Casado,60
+37,Rubn Daz,56
+33,Amaro,59
+26,F. Ackermann,58
+41,Alberto Rodrguez,60

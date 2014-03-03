@@ -1,0 +1,32 @@
+13,T. Courtois,84
+20,Juanfran,79
+23,Miranda,81
+2,D. Godn,83
+3,Filipe Lus,82
+4,Mario Surez,79
+14,Gabi,80
+6,Koke,81
+10,A. Turan,84
+8,Ral Garca,79
+19,Diego Costa,83
+18,J. Gimnez,71
+17,Manquillo,67
+12,T. Alderweireld,78
+5,Tiago,80
+27,L. Hernndez,62
+22,E. Insua,78
+7,Adrin,78
+1,Aranzubia,74
+11,C. Rodrguez,80
+24,J. Sosa,73
+9,David Villa,83
+21,Diego,83
+37,Hctor Hernndez,59
+42,Kader,65
+35,Y. Bounou,66
+34,Mongil,65
+38,Ivn Snchez,63
+40,M. N'Doye,60
+33,C. Gven,62
+36,Aquino,71
+26,Carlos Ramos,59

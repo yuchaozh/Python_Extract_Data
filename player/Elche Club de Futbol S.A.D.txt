@@ -1,0 +1,33 @@
+1,Manu Herrera,74
+2,D. Surez,71
+3,Bota,74
+4,Lombn,70
+21,Edu Albacar,72
+6,Rubn Prez,75
+17,Javi Mrquez,68
+15,Carles Gil,73
+14,Manu Del Moral,73
+11,Corominas,74
+28,Cristian Herrera,67
+25,Rodrigues,60
+9,R. Boakye,71
+18,Pelegrn,72
+35,Jos Carlos,58
+8,Mantecn,68
+5,Rivera,73
+13,Too,73
+16,Fidel,72
+7,Aarn,69
+24,C. Snchez,74
+23,Cisma,70
+19,C. Spunaru,73
+36,Jorge Arajo,61
+37,J. Jimnez,62
+39,E. Omgba,58
+33,Sergi Guill,60
+34,Yeray,56
+38,Nico,61
+32,Sergio Len,62
+27,lvaro,65
+10,Javi Flores,63
+26,C. I'Anson,62

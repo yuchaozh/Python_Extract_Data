@@ -1,0 +1,29 @@
+13,Casilla,76
+16,Javi Lpez,72
+19,D. Colotto,75
+6,Sidnei,72
+18,Fuentes,68
+4,Victor Snchez,73
+14,David Lpez,69
+10,Pizzi,76
+20,Simo,75
+23,Abraham,71
+9,Sergio Garca,76
+2,Felipe Mattioni,68
+1,Germn Parreo,61
+24,J. Crdoba,67
+26,Pedro Castro,66
+17,Vctor lvarez,69
+3,Ral Rodrguez,72
+11,Capdevila,73
+25,G. Torje,72
+22,lex Fernndez,71
+8,C. Stuani,71
+15,H. Moreno,78
+12,Lanzarote,72
+31,A. Irawan,59
+30,Rober,59
+32,Pere,61
+29,Jairo Morilla,59
+27,Aday,59
+35,Pau,57

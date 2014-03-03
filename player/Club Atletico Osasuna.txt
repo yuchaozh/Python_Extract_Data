@@ -1,0 +1,31 @@
+13,Andrs Fernndez,78
+2,Marc Bertrn,73
+14,Arribas,76
+22,J. Lotis,71
+24,Dami,73
+5,Lolo,73
+20,F. Silva,71
+16,Cejudo,73
+9,E. Armenteros,72
+21,Roberto Torres,67
+19,Oriol Riera,71
+18,Onwu,64
+23,R. Lo,70
+10,Pual,71
+17,Lobato,68
+3,Joan Oriol,68
+15,Oier,71
+1,Riesgo,71
+31,Jos Garca,58
+6,Nino,69
+4,Miguel Flao,74
+7,C. Acua,69
+8,De las Cuevas,72
+30,Jorge Gmez,60
+26,Cantero,60
+28,Yoel Sola,57
+36,Maikel,61
+35,Unai Garcia,61
+11,Sisi,73
+38,Eslava,61
+12,Satrstegui,63

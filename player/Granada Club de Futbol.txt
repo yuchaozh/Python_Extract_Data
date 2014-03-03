@@ -1,0 +1,33 @@
+13,Roberto,73
+2,A. Nyom,73
+5,Mainz,72
+19,A. Coeff,70
+16,B. Angulo,67
+18,M. Iturra,76
+12,D. Buonanotte,73
+14,Recio,71
+28,M. Fatau,61
+10,Y. Brahimi,75
+9,Y. El Arabi,74
+24,J. Murillo,73
+32,Fran Morante,59
+29,R. Boateng,60
+22,D. Foulquier,66
+6,Ilori,73
+23,M. Pereira,71
+11,Dani Bentez,71
+7,O. Ighalo,72
+1,O. Karnezis,74
+21,Riki,74
+4,Fran Rico,67
+20,Piti,75
+31,W. Cuero,60
+27,lvaro,63
+34,C. Bravo,63
+39,Puertas,57
+30,Adolfo,54
+36,Nico,55
+38,lex Carmona,57
+26,Migue Garcia,61
+33,lvaro Vega,59
+37,C. Aboagye,68

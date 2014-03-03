@@ -1,0 +1,33 @@
+1,C. Bravo,81
+31,Zalda,58
+3,Mikel Gonzalez,79
+6,Iigo Martnez,80
+20,Jos ngel,72
+5,Markel Bergara,76
+14,Rubn Pardo,76
+10,Xabi Prieto,80
+11,C. Vela,82
+9,Agirretxe,77
+7,A. Griezmann,82
+21,D. Ifrn,73
+23,Ros,71
+8,H. Seferovic,74
+16,Sergio Canales,77
+28,Gaztaaga,65
+15,Ansotegi,74
+24,De la Bella,75
+2,Carlos Martinez,78
+4,Elustondo,74
+17,Zurutuza,74
+13,Zubikarai,68
+18,G. Castro,79
+32,Sangalli,61
+30,A. Callens,64
+33,V. Fuchs,63
+26,Enrique Royo,56
+39,Aitor Castro,64
+29,Hervas,62
+25,Granero,78
+38,Txomin Barcina,61
+22,Dani Estrada,70
+35,Oiartzun,58
