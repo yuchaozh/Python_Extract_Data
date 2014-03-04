@@ -1,0 +1,259 @@
+Real Valladolid, 
+G,1,Jaime Jimnez Merlo
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,24,Mikel Balenziaga
+M,10,scar Gonzlez
+M,14,Omar Ramos
+M,18,Alvaro Rubio
+M,20,Patrick Ebert
+M,22,Victor Perez
+F,9,Javi Guerra
+
+Levante,
+G,1,Gustavo Munua
+D,4,David Navarro
+D,18,Sergio Ballesteros
+D,19,Pedro Lpez
+D,22,Christian Lell
+M,7,Jose Barkero
+M,10,Vicente Iborra de la Fuente
+M,20,Juanlu
+M,21,Michel
+M,23,Pape Diop
+F,9,Angel
+
+Atletico Madrid,
+G,13,Thibaut Courtois
+D,3,Filipe Luis
+D,14,Gabi
+D,20,Francisco Juanfran
+D,23,Miranda
+M,2,Diego Godn
+M,4,Mario Surez
+M,6,Koke
+M,10,Arda Turan
+F,9,Radamel Falcao
+F,11,Cristian Rodriguez
+
+Athletic Bilbao,
+G,1,Gorka Iraizoz
+D,10,Oscar de Marcos
+D,15,Andoni Iraola
+D,17,Inigo Prez
+D,18,Carlos Gurpegui
+M,6,Mikel San Jose
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,21,Ander Herrera
+F,16,Ismael Lpez Blanco
+F,20,Aritz Aduriz
+
+Osasuna,
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,23,Raoul Loe
+D,24,Damia
+M,4,Miguel Flao
+M,10,Francisco Pual
+M,11,Sisi
+M,16,Alvaro Cejudo
+F,12,Joseba Llorente
+F,20,Roland Lamah
+
+Barcelona,
+G,1,Victor Valds
+D,2,Dani Alves
+D,5,Carles Puyol
+D,16,Sergio Busquets
+D,18,Jordi Alba
+M,3,Gerard Piqu
+M,4,Cesc Fbregas
+M,8,Andrs Iniesta
+F,9,Alexis Snchez
+F,10,Lionel Messi
+F,37,Cristian Tello
+
+Getafe,
+G,1,Miguel Moya
+D,2,Alexis
+D,4,Miguel Torres Gmez
+D,16,David Angel Abraham
+D,20,Valera
+M,17,Diego Castro Gimenez
+M,18,Lafita
+M,19,Abdelaziz Barrada
+M,21,Michel
+M,25,Xavi Torres
+F,7,Miku
+
+Real Madrid,
+G,1,Iker Casillas
+D,4,Sergio Ramos
+D,12,Marcelo
+D,17,lvaro Arbeloa
+D,18,Ral Albiol
+M,7,Cristiano Ronaldo
+M,10,Mesut zil
+M,14,Xabi Alonso
+M,22,ngel Di Mara
+M,24,Lassana Diarra
+F,20,Gonzalo Higuan
+
+Granada,
+G,1,Too
+D,2,Allan-Romo Nyom
+D,6,Guillherme Siqueira
+D,8,Inigo Lopez
+D,20,Borja Gomez
+M,9,Youssef El Arabi
+M,10,Jaime Romero Gmez
+M,14,Moreno Mikel Rico
+M,19,Fabin Orellana
+M,24,Santos Iriney
+F,7,Antonio Floro Flores
+
+Sevilla FC,
+G,13,Diego Lopez
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,4,Emir Spahic
+D,21,Cicinho
+M,8,Gary Medel
+M,11,Ivan Rakitic
+M,15,Piotr Trochowski
+F,7,Jess Navas
+F,9,lvaro Negredo
+F,19,Jos Antonio Reyes
+
+Valencia,
+G,1,Diego Alves
+D,12,Joao Pereira
+D,18,Victor Ruiz
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,5,Fernando Gago
+M,8,Sofiane Feghouli
+M,17,Andrs Guardado
+M,24,Tino Costa
+F,7,Jonas
+F,9,Roberto Soldado
+
+Deportivo La Corua,
+G,1,Daniel Aranzuba
+D,2,Manuel Pablo
+D,3,Evaldo
+D,6,Aythami Artiles Oliva
+D,24,Carlos Marchena
+M,9,Pizzi
+M,10,Juan Dominguez
+M,14,Abel Aguilar
+M,16,Bruno Gama
+F,11,Riki
+F,21,Juan Carlos Valern
+
+Real Sociedad,
+G,1,Claudio Bravo
+D,8,Asier Illarramendi
+D,15,Jon Ansotegui
+D,22,Daniel Estrada
+D,24,Alberto de la Bella
+M,3,Mikel Gonzalez
+M,5,Markel Bergara Larraaga
+M,10,Xabi Prieto
+M,11,Carlos Vela
+F,7,Antoine Griezmann
+F,9,Imanol Agirretxe
+
+Celta Vigo,
+G,13,Javi Varas
+D,2,Hugo Mallo
+D,3,Roberto Lago
+D,8,lex Lpez
+D,12,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,5,Andrs Tez
+M,22,Enrique De Lucas
+M,24,Augusto Fernndez
+F,10,Iago Aspas
+F,23,Michael Krohn-Dehli
+
+Espanyol,
+G,1,Cristian Alvarez
+D,3,Ral Rodrguez
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Joan Capdevila
+M,4,Vctor Snchez
+M,17,Juan Albin
+M,22,Mubarak Wakaso
+M,23,Cristian Gmez
+F,8,lvaro Vsquez
+F,10,Verd
+
+Real Zaragoza,
+G,1,Roberto Gago
+D,3,Javier Paredes
+D,4,lvaro
+D,6,Bayon Samuel
+D,21,Abraham Minero
+M,8,Edu Oriol
+M,11,Francisco Montas
+M,15,Jos Mari
+M,22,dm Pintr
+F,9,Hlder Postiga
+F,10,Apono
+
+Real Betis,
+G,25,Fabricio
+D,2,Francisco Chica Torres
+D,5,Jos Antonio Dorado Ramrez
+D,12,Paulo
+D,23,Perez Nacho
+M,10,Beat
+M,17,Juan Carlos
+M,18,Salvador Agra
+M,21,Jose Canas
+F,9,Jonathan
+F,19,Jorge Molina
+
+Rayo Vallecano,
+G,1,Rubn
+D,2,Tito
+D,3,Casado
+D,16,Jordi Amat
+M,8,Adrian Gonzalez
+M,9,Jose Carlos da Silva
+M,10,Piti
+M,17,Roberto Trashorras
+M,18,Javi Fuego
+F,14,Nickie Nielsen
+F,29,Leo Baptistao
+
+Malaga,
+G,13,Wilfredo Caballero
+D,3,Weligton
+D,5,Martn Demichelis
+D,15,Nacho Monreal
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,17,Duda
+M,20,Diego Buonanotte
+M,27,Francisco Portillo
+F,11,Seba Fernndez
+F,22,Isco
+
+Mallorca,
+G,13,Dudu Aouate
+D,6,Antonio Lpez
+D,16,Nunes
+D,17,Pedro Bigas
+D,27,Ximo Navarro
+M,5,Toms Pina
+M,7,Pereira
+M,8,Emilio Nsue
+M,11,Javier Moreno Marquez
+F,10,Tomer Hemed
+F,18,Vctor Casadess

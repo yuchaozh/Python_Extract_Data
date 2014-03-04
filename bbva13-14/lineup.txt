@@ -1,0 +1,6500 @@
+Almeria  VS.  Elche:
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+--------------------------
+G,1,Manuel Yage
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,19,Cristian Sapunaru
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,14,Manu
+
+Rayo Vallecano  VS.  Levante:
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,22,Sal guez Esclapez
+M,24,Yago Falqu
+F,23,Alberto Bueno
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,19,Pedro Lpez
+M,11,Rubn Garca
+M,16,Issam Adoua
+M,17,Jordi Xumetra Feliu
+M,18,Sergio Pinto
+M,20,Pedro Ros
+F,7,David Barral
+
+Granada  VS.  Real Madrid:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+M,8,Hassan Yebda
+M,10,Yacine Brahimi
+M,11,Daniel Gonzlez Bentez
+M,18,Manuel Iturra
+M,20,Piti
+F,9,Youssef El Arabi
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,17,lvaro Arbeloa
+M,7,Cristiano Ronaldo
+M,10,Mesut zil
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,23,Isco
+F,9,Karim Benzema
+
+Atletico Madrid  VS.  Rayo Vallecano:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,8,Ral Garca
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,1,David Cobeo
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,17,Leonel  Galeano
+M,7,Lass
+M,10,Roberto Trashorras
+M,14,Alberto Perea
+M,22,Sal guez Esclapez
+M,23,Alberto Bueno
+F,20,Joaquin Larrivey
+
+Levante  VS.  Sevilla FC:
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,19,Pedro Lpez
+M,11,Rubn Garca
+M,16,Issam Adoua
+M,17,Jordi Xumetra Feliu
+M,18,Sergio Pinto
+M,20,Pedro Ros
+F,7,David Barral
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,4,Cala
+D,23,Coke Andjar
+M,7,Marko Marin
+M,10,Diego Perotti
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,20,Vitolo
+F,18,Kevin Gameiro
+
+Malaga  VS.  Barcelona:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,12,Fernando Tissone
+M,30,Sergi Darder
+F,9,Roque Santa Cruz
+F,19,Bartlomiej Pawlowski
+F,28,Fabrice
+--------------------------
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+D,21,Adriano
+M,6,Xavi
+M,8,Andrs Iniesta
+M,17,Alex Song
+F,4,Cesc Fbregas
+F,7,Pedro
+F,9,Alexis Snchez
+
+Real Betis  VS.  Celta Vigo:
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,15,Damien Perquis
+D,23,Perez Nacho
+M,5,Mati
+M,10,Verd
+M,17,Juan Carlos
+M,20,Nosa Igiebor
+M,22,Cedric
+F,19,Jorge Molina
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,23,Michael Krohn-Dehli
+F,10,Nolito
+F,11,Charles
+F,24,Augusto Fernndez
+
+Elche  VS.  Real Sociedad:
+G,1,Manuel Yage
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,19,Cristian Sapunaru
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,14,Manu
+--------------------------
+G,1,Claudio Bravo
+D,6,Iigo Martnez
+D,19,Cadamuro
+D,22,Daniel Estrada
+D,24,Alberto de la Bella
+M,4,Gorka Urkola
+M,11,Carlos Vela
+M,14,Rubn Pardo
+M,18,Gonzalo Castro Irizabal
+M,25,Esteban Granero
+F,8,Haris Seferovic
+
+Espanyol  VS.  Valencia:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,9,Sergio Garca
+M,10,Pizzi
+M,14,David Lpez
+M,20,Simo
+F,8,Christian Stuani
+--------------------------
+G,1,Diego Alves
+D,4,Adil Rami
+D,12,Joao Pereira
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,7,Jonas
+M,8,Sofiane Feghouli
+M,10,Ever Banega
+M,15,Javi Fuego
+M,24,Michel
+F,9,Hlder Postiga
+
+Villarreal  VS.  Real Valladolid:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,10,Cani
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,9,Giovani Dos Santos
+F,24,Jonathan
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,3,Heinz Barmettler
+D,4,Marc Valiente
+D,17,Carlos Gonzalez Pea
+M,6,Jess Rueda
+M,10,scar Gonzlez
+M,18,Alvaro Rubio
+M,21,Zakara Bergdich
+M,24,Gilberto Garca
+F,9,Javi Guerra
+
+Getafe  VS.  Almeria:
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,15,Rafa Lopez
+D,20,Valera
+M,5,Medhi Lacen
+M,7,Lafita
+M,8,Sarabia
+M,17,Diego Castro Gimenez
+M,23,Borja
+F,11,Adrin Colunga
+--------------------------
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+
+Athletic Bilbao  VS.  Osasuna:
+G,13,Iago Herrern
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,22,Enric Saborit
+M,7,Beat
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,3,Joan Oriol
+D,14,Javi Arribas
+D,22,Jordan Loties
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,11,Sisi
+M,17,Ariel Nez
+M,20,Francisco Silva
+F,19,Oriol Riera Magem
+
+Rayo Vallecano  VS.  Elche:
+G,1,David Cobeo
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,17,Leonel  Galeano
+M,7,Lass
+M,9,Jose Carlos da Silva
+M,10,Roberto Trashorras
+M,22,Sal guez Esclapez
+M,23,Alberto Bueno
+F,20,Joaquin Larrivey
+--------------------------
+G,1,Manuel Yage
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,19,Cristian Sapunaru
+D,23,Domingo
+M,5,Alberto Rivera
+M,7,Aarn
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,20,Generelo
+F,14,Manu
+
+Almeria  VS.  Villarreal:
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,18,Jaume
+D,29,Pablo
+M,4,Toms Pina
+M,10,Cani
+M,11,Hernn Prez
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+
+Celta Vigo  VS.  Espanyol:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,23,Michael Krohn-Dehli
+F,10,Nolito
+F,11,Charles
+F,24,Augusto Fernndez
+--------------------------
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,10,Pizzi
+M,14,David Lpez
+M,20,Simo
+F,9,Sergio Garca
+
+Barcelona  VS.  Levante:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,21,Adriano
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,6,Xavi
+M,16,Sergio Busquets
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,5,Hector Rodas
+D,12,Juanfran
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,18,Sergio Pinto
+M,24,Simo Mate Junior
+F,7,David Barral
+
+Osasuna  VS.  Granada:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,3,Joan Oriol
+D,14,Javi Arribas
+D,22,Jordan Loties
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,16,Alvaro Cejudo
+M,23,Raoul Loe
+F,17,Ariel Nez
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,8,Hassan Yebda
+M,10,Yacine Brahimi
+M,11,Daniel Gonzlez Bentez
+M,18,Manuel Iturra
+M,20,Piti
+F,9,Youssef El Arabi
+
+Real Madrid  VS.  Real Betis:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,6,Sami Khedira
+M,19,Luka Modric
+M,23,Isco
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,10,Mesut zil
+--------------------------
+G,1,Stephan Andersen
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,15,Damien Perquis
+D,23,Perez Nacho
+M,5,Mati
+M,10,Verd
+M,11,Juanfran
+M,20,Nosa Igiebor
+M,22,Cedric
+F,19,Jorge Molina
+
+Sevilla FC  VS.  Atletico Madrid:
+G,13,Beto
+D,2,Federico Fazio
+D,21,Nicolas Pareja
+D,23,Coke Andjar
+D,32,Alberto
+M,10,Diego Perotti
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,20,Vitolo
+F,7,Marko Marin
+F,9,Carlos Bacca
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,4,Mario Surez
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Real Sociedad  VS.  Getafe:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,24,Alberto de la Bella
+M,4,Gorka Urkola
+M,11,Carlos Vela
+M,14,Rubn Pardo
+M,17,David Zurutuza
+M,18,Gonzalo Castro Irizabal
+F,8,Haris Seferovic
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,15,Rafa Lopez
+D,18,Sergio Escudero
+D,20,Valera
+M,5,Medhi Lacen
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+F,11,Adrin Colunga
+
+Real Valladolid  VS.  Athletic Bilbao:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,10,scar Gonzlez
+M,14,Omar Ramos
+M,16,Lluis Sastre
+M,18,Alvaro Rubio
+M,20,Patrick Ebert
+F,9,Javi Guerra
+--------------------------
+G,1,Gorka Iraizoz
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,23,Borja Ekiza
+D,24,Mikel Balenziaga
+M,7,Beat
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,19,Iker Munian
+M,21,Ander Herrera
+F,9,Kike Sola
+
+Valencia  VS.  Malaga:
+G,1,Diego Alves
+D,4,Adil Rami
+D,12,Joao Pereira
+D,14,Juan Bernat
+D,20,Ricardo Costa
+M,10,Ever Banega
+M,15,Javi Fuego
+M,17,Jonathan Viera
+M,24,Michel
+M,28,Federico Cartabia
+F,9,Hlder Postiga
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,23,Roberto Chen
+M,12,Fernando Tissone
+M,14,Pedro Morales
+M,17,Duda
+M,28,Fabrice
+M,30,Sergi Darder
+F,9,Roque Santa Cruz
+
+Atletico Madrid  VS.  Almeria:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,18,Jos Gimnez
+D,20,Francisco Juanfran
+M,5,Tiago
+M,6,Koke
+M,8,Ral Garca
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,18,Christian Fernndez
+D,20,Rafita
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+
+Levante  VS.  Real Sociedad:
+G,1,Keylor Navas
+D,4,David Navarro
+D,5,Hector Rodas
+D,6,Loukas Vyntra
+D,12,Juanfran
+M,16,Issam Adoua
+M,17,Jordi Xumetra Feliu
+M,18,Sergio Pinto
+M,20,Pedro Ros
+M,23,Pape Diop
+F,7,David Barral
+--------------------------
+G,1,Claudio Bravo
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,22,Daniel Estrada
+D,24,Alberto de la Bella
+M,4,Gorka Urkola
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,17,David Zurutuza
+M,25,Esteban Granero
+F,11,Carlos Vela
+
+Barcelona  VS.  Sevilla FC:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+D,22,Dani Alves
+M,6,Xavi
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,10,Lionel Messi
+F,11,Neymar
+F,20,Cristian Tello
+--------------------------
+G,13,Beto
+D,3,Fernando Navarro
+D,4,Cala
+D,23,Coke Andjar
+D,32,Alberto
+M,8,Sebastin Cristforo
+M,11,Ivan Rakitic
+M,17,Jairo Samperio
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,18,Kevin Gameiro
+
+Villarreal  VS.  Real Madrid:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,10,Cani
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,9,Giovani Dos Santos
+F,24,Jonathan
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,15,Daniel Carvajal
+D,18,Nacho Fernandez
+M,7,Cristiano Ronaldo
+M,11,Gareth Bale
+M,19,Luka Modric
+M,23,Isco
+M,24,Asier Illarramendi
+F,9,Karim Benzema
+
+Real Madrid  VS.  Athletic Bilbao:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,17,lvaro Arbeloa
+M,6,Sami Khedira
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,23,Isco
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+--------------------------
+G,13,Iago Herrern
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,7,Beat
+M,8,Ander Iturraspe
+M,17,Moreno Mikel Rico
+F,14,Markel Susaeta
+F,19,Iker Munian
+F,20,Aritz Aduriz
+
+Espanyol  VS.  Real Betis:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,10,Pizzi
+M,14,David Lpez
+M,20,Simo
+F,9,Sergio Garca
+--------------------------
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,4,Antonio Amaya
+D,23,Perez Nacho
+D,25,Jordi Figueras Montel
+M,6,Xavi Torres
+M,10,Verd
+M,17,Juan Carlos
+M,20,Nosa Igiebor
+M,22,Cedric
+F,19,Jorge Molina
+
+Real Sociedad  VS.  Atletico Madrid:
+G,1,Claudio Bravo
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,19,Cadamuro
+D,24,Alberto de la Bella
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,17,David Zurutuza
+F,8,Haris Seferovic
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,4,Mario Surez
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Sevilla FC  VS.  Malaga:
+G,1,Javi Varas
+D,3,Fernando Navarro
+D,4,Cala
+D,23,Coke Andjar
+D,32,Alberto
+M,10,Diego Perotti
+M,11,Ivan Rakitic
+M,14,Bryan Rabello
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+F,18,Kevin Gameiro
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,12,Fernando Tissone
+M,14,Pedro Morales
+M,17,Duda
+M,28,Fabrice
+M,30,Sergi Darder
+F,9,Roque Santa Cruz
+
+Valencia  VS.  Barcelona:
+G,1,Diego Alves
+D,4,Adil Rami
+D,12,Joao Pereira
+D,18,Andrs Guardado
+D,20,Ricardo Costa
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+M,23,Sergio Canales Madrazo
+M,24,Michel
+F,9,Hlder Postiga
+--------------------------
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,7,Pedro
+F,10,Lionel Messi
+F,11,Neymar
+
+Celta Vigo  VS.  Granada:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,15,Jon Aurtenetxe
+D,20,Toni
+D,30,David Costas
+M,3,Fonts
+M,8,lex Lpez
+M,12,Rafinha
+F,10,Nolito
+F,11,Charles
+F,24,Augusto Fernndez
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+M,4,Fran Rico
+M,10,Yacine Brahimi
+M,11,Daniel Gonzlez Bentez
+M,18,Manuel Iturra
+M,20,Piti
+F,21,Riki
+
+Real Valladolid  VS.  Getafe:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,10,scar Gonzlez
+M,14,Omar Ramos
+M,16,Lluis Sastre
+M,18,Alvaro Rubio
+M,21,Zakara Bergdich
+F,9,Javi Guerra
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,15,Rafa Lopez
+D,18,Sergio Escudero
+D,20,Valera
+M,5,Medhi Lacen
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+F,11,Adrin Colunga
+
+Osasuna  VS.  Villarreal:
+G,13,Andrs Fernndez
+D,3,Joan Oriol
+D,14,Javi Arribas
+D,15,Oier Sonj
+D,22,Jordan Loties
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,11,Sisi
+M,20,Francisco Silva
+F,19,Oriol Riera Magem
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,10,Cani
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,7,Jrmy Perbet
+F,24,Jonathan
+
+Osasuna  VS.  Levante:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,11,Sisi
+M,20,Francisco Silva
+F,19,Oriol Riera Magem
+--------------------------
+G,1,Keylor Navas
+D,5,Hector Rodas
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,11,Rubn Garca
+M,22,Christian Lell
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,10,Papa Babacar Diawara
+
+Celta Vigo  VS.  Elche:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,12,Rafinha
+F,10,Nolito
+F,11,Charles
+F,24,Augusto Fernndez
+--------------------------
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,16,Fidel
+M,17,Javier Moreno Marquez
+F,11,Coro
+F,14,Manu
+F,15,Carles Gil de Pareja Vicent
+
+Espanyol  VS.  Getafe:
+G,13,Francisco Casilla
+D,11,Joan Capdevila
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,10,Pizzi
+M,14,David Lpez
+M,20,Simo
+F,9,Sergio Garca
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,12,Arroyo
+D,15,Rafa Lopez
+M,10,Jaime Gaviln Martnez
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,23,Borja
+F,11,Adrin Colunga
+
+Real Betis  VS.  Villarreal:
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,12,Didac
+M,5,Mati
+M,7,Alvaro Vadillo Cifuentes
+M,10,Verd
+M,20,Nosa Igiebor
+M,21,Lorenzo Reyes
+F,19,Jorge Molina
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,3,Bojan Jokic
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+M,10,Cani
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,24,Jonathan
+
+Valencia  VS.  Rayo Vallecano:
+G,1,Diego Alves
+D,5,Victor Ruiz
+D,12,Joao Pereira
+D,14,Juan Bernat
+D,22,Jrmy Mathieu
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+M,23,Sergio Canales Madrazo
+M,28,Federico Cartabia
+F,7,Jonas
+--------------------------
+G,13,Rubn
+D,18,Ze Castro
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+D,26,Johan Mojica
+M,4,Ral Baena
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,25,Seba Fernndez
+F,20,Joaquin Larrivey
+
+Almeria  VS.  Barcelona:
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,18,Christian Fernndez
+D,22,Nlson
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+--------------------------
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,15,Marc Bartra
+D,21,Adriano
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+
+Real Sociedad  VS.  Sevilla FC:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,11,Carlos Vela
+M,14,Rubn Pardo
+M,18,Gonzalo Castro Irizabal
+F,9,Imanol Agirretxe
+--------------------------
+G,13,Beto
+D,4,Cala
+D,5,Diogo Figueiras
+D,21,Nicolas Pareja
+D,32,Alberto
+M,8,Sebastin Cristforo
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,15,Piotr Trochowski
+M,17,Jairo Samperio
+F,18,Kevin Gameiro
+
+Real Madrid  VS.  Atletico Madrid:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,5,Fbio Coentro
+D,17,lvaro Arbeloa
+M,6,Sami Khedira
+M,22,ngel Di Mara
+M,23,Isco
+M,24,Asier Illarramendi
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Real Valladolid  VS.  Malaga:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,7,Humberto Osorio
+M,8,Baraja
+M,16,Lluis Sastre
+M,19,Valdet Rama
+M,20,Patrick Ebert
+F,9,Javi Guerra
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,14,Pedro Morales
+M,18,Eliseu
+F,9,Roque Santa Cruz
+
+Athletic Bilbao  VS.  Real Betis:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+M,7,Beat
+M,11,Ibai Gomez
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,23,Perez Nacho
+M,5,Mati
+M,6,Xavi Torres
+M,9,Chuli
+M,11,Juanfran
+M,14,Salva Sevilla
+F,19,Jorge Molina
+
+Getafe  VS.  Celta Vigo:
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,4,Lisandro Lopez
+D,12,Arroyo
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,19,Miku
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,15,Jon Aurtenetxe
+D,16,Carlos Llorens
+D,22,Gustavo Cabral
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,12,Rafinha
+M,17,Levy Madinda
+M,23,Michael Krohn-Dehli
+F,14,Fabin Orellana
+F,18,David Rodrguez
+
+Villarreal  VS.  Espanyol:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,18,Jaume
+D,29,Pablo
+M,4,Toms Pina
+M,10,Cani
+M,11,Hernn Prez
+M,21,Bruno
+F,7,Jrmy Perbet
+F,9,Giovani Dos Santos
+--------------------------
+G,13,Francisco Casilla
+D,2,Felipe
+D,6,Sidnei
+D,15,Hctor Moreno
+D,28,Carlos Clerc
+M,3,Ral Rodrguez
+M,7,Thievy Bifouma 
+M,12,Manu Lanzarote
+M,22,Alex
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+
+Granada  VS.  Valencia:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,10,Yacine Brahimi
+M,12,Diego Buonanotte
+M,14,Recio
+M,18,Manuel Iturra
+M,23,Pereira
+F,9,Youssef El Arabi
+--------------------------
+G,1,Diego Alves
+D,5,Victor Ruiz
+D,12,Joao Pereira
+D,18,Andrs Guardado
+D,22,Jrmy Mathieu
+M,7,Jonas
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+M,28,Federico Cartabia
+F,9,Hlder Postiga
+
+Sevilla FC  VS.  Rayo Vallecano:
+G,13,Beto
+D,4,Cala
+D,21,Nicolas Pareja
+D,23,Coke Andjar
+D,32,Alberto
+M,7,Marko Marin
+M,11,Ivan Rakitic
+M,16,Denis Cheryshev
+M,17,Jairo Samperio
+M,22,Stphane M'Bia
+F,18,Kevin Gameiro
+--------------------------
+G,13,Rubn
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+D,26,Johan Mojica
+M,4,Ral Baena
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+F,23,Alberto Bueno
+
+Elche  VS.  Real Madrid:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,17,Javier Moreno Marquez
+M,24,Carlos Sanchez
+F,11,Coro
+F,14,Manu
+F,15,Carles Gil de Pareja Vicent
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,5,Fbio Coentro
+D,17,lvaro Arbeloa
+M,6,Sami Khedira
+M,7,Cristiano Ronaldo
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,23,Isco
+F,9,Karim Benzema
+
+Barcelona  VS.  Real Sociedad:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,21,Adriano
+D,22,Dani Alves
+M,6,Xavi
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,9,Alexis Snchez
+F,10,Lionel Messi
+F,11,Neymar
+--------------------------
+G,1,Claudio Bravo
+D,6,Iigo Martnez
+D,19,Cadamuro
+D,22,Daniel Estrada
+D,24,Alberto de la Bella
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,23,Javier Ariel Rosada
+M,32,Sangalli
+F,8,Haris Seferovic
+
+Levante  VS.  Real Valladolid:
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,22,Christian Lell
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,18,Sergio Pinto
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+F,10,Papa Babacar Diawara
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+D,21,Zakara Bergdich
+M,7,Humberto Osorio
+M,8,Baraja
+M,14,Omar Ramos
+M,16,Lluis Sastre
+M,20,Patrick Ebert
+F,9,Javi Guerra
+
+Atletico Madrid  VS.  Osasuna:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,20,Francisco Juanfran
+D,22,Emiliano Insua
+D,23,Miranda
+M,4,Mario Surez
+M,5,Tiago
+M,6,Koke
+M,10,Arda Turan
+F,19,Diego Costa
+F,21,Leo Baptistao
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,11,Sisi
+M,20,Francisco Silva
+M,23,Raoul Loe
+F,19,Oriol Riera Magem
+
+Malaga  VS.  Almeria:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,10,Bobley Anderson
+M,12,Fernando Tissone
+M,17,Duda
+M,30,Sergi Darder
+F,7,Mounir El Hamdaoui
+--------------------------
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+
+Espanyol  VS.  Athletic Bilbao:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,10,Pizzi
+M,14,David Lpez
+M,20,Simo
+F,9,Sergio Garca
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+M,7,Beat
+M,8,Ander Iturraspe
+M,17,Moreno Mikel Rico
+F,10,Oscar de Marcos
+F,19,Iker Munian
+F,20,Aritz Aduriz
+
+Real Betis  VS.  Granada:
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,23,Perez Nacho
+M,5,Mati
+M,6,Xavi Torres
+M,7,Alvaro Vadillo Cifuentes
+M,11,Juanfran
+M,14,Salva Sevilla
+F,19,Jorge Molina
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,12,Diego Buonanotte
+M,14,Recio
+M,18,Manuel Iturra
+M,23,Pereira
+M,27,lvaro Garca
+F,9,Youssef El Arabi
+
+Celta Vigo  VS.  Villarreal:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,15,Jon Aurtenetxe
+D,20,Toni
+D,30,David Costas
+M,3,Fonts
+M,8,lex Lpez
+M,12,Rafinha
+M,24,Augusto Fernndez
+F,11,Charles
+F,29,Santi Mina
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,10,Cani
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,9,Giovani Dos Santos
+F,24,Jonathan
+
+Real Madrid  VS.  Getafe:
+G,25,Diego Lopez
+D,3,Pepe
+D,15,Daniel Carvajal
+D,17,lvaro Arbeloa
+D,18,Nacho Fernandez
+M,6,Sami Khedira
+M,7,Cristiano Ronaldo
+M,22,ngel Di Mara
+M,23,Isco
+M,24,Asier Illarramendi
+F,9,Karim Benzema
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,18,Sergio Escudero
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,24,Pedro Mosquera
+F,19,Miku
+
+Valencia  VS.  Sevilla FC:
+G,1,Diego Alves
+D,12,Joao Pereira
+D,18,Andrs Guardado
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,7,Jonas
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+M,28,Federico Cartabia
+F,9,Hlder Postiga
+--------------------------
+G,13,Beto
+D,3,Fernando Navarro
+D,4,Cala
+D,23,Coke Andjar
+D,32,Alberto
+M,7,Marko Marin
+M,11,Ivan Rakitic
+M,17,Jairo Samperio
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,18,Kevin Gameiro
+
+Real Sociedad  VS.  Malaga:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,14,Rubn Pardo
+M,18,Gonzalo Castro Irizabal
+F,9,Imanol Agirretxe
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,17,Duda
+M,18,Eliseu
+M,30,Sergi Darder
+F,7,Mounir El Hamdaoui
+
+Almeria  VS.  Levante:
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,18,Christian Fernndez
+D,22,Nlson
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,22,Christian Lell
+M,17,Jordi Xumetra Feliu
+M,18,Sergio Pinto
+M,20,Pedro Ros
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+F,10,Papa Babacar Diawara
+
+Rayo Vallecano  VS.  Barcelona:
+G,13,Rubn
+D,2,Tito
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+D,26,Johan Mojica
+M,4,Ral Baena
+M,10,Roberto Trashorras
+M,22,Sal guez Esclapez
+F,14,Alberto Perea
+F,19,Jonathan Viera
+F,23,Alberto Bueno
+--------------------------
+G,1,Victor Valds
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,21,Adriano
+M,4,Cesc Fbregas
+M,6,Xavi
+M,17,Alex Song
+F,7,Pedro
+F,10,Lionel Messi
+F,11,Neymar
+
+Real Valladolid  VS.  Atletico Madrid:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+D,21,Zakara Bergdich
+M,5,Fausto Rossi
+M,14,Omar Ramos
+M,16,Lluis Sastre
+M,19,Valdet Rama
+M,20,Patrick Ebert
+F,9,Javi Guerra
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,17,Javi Manquillo
+D,23,Miranda
+M,4,Mario Surez
+M,6,Koke
+M,8,Ral Garca
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Osasuna  VS.  Elche:
+G,13,Andrs Fernndez
+D,3,Joan Oriol
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,9,Emiliano Armenteros
+M,11,Sisi
+M,20,Francisco Silva
+M,21,Roberto Torres
+M,23,Raoul Loe
+F,19,Oriol Riera Magem
+--------------------------
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,16,Fidel
+M,22,Miroslav Stevanovic
+M,24,Carlos Sanchez
+F,9,Richmond Boakye
+
+Elche  VS.  Real Valladolid:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,17,Javier Moreno Marquez
+F,9,Richmond Boakye
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,10,scar Gonzlez
+M,14,Omar Ramos
+M,16,Lluis Sastre
+M,18,Alvaro Rubio
+M,21,Zakara Bergdich
+F,9,Javi Guerra
+
+Athletic Bilbao  VS.  Celta Vigo:
+G,13,Iago Herrern
+D,4,Aymeric Laporte
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+M,5,Erik Morn
+M,7,Beat
+M,14,Markel Susaeta
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,12,Rafinha
+F,10,Nolito
+F,11,Charles
+F,24,Augusto Fernndez
+
+Granada  VS.  Espanyol:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,4,Fran Rico
+M,11,Daniel Gonzlez Bentez
+M,12,Diego Buonanotte
+M,14,Recio
+M,23,Pereira
+F,21,Riki
+--------------------------
+G,13,Francisco Casilla
+D,3,Ral Rodrguez
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,12,Manu Lanzarote
+M,14,David Lpez
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+
+Getafe  VS.  Osasuna:
+G,1,Miguel Moya
+D,2,Alexis
+D,4,Lisandro Lopez
+D,18,Sergio Escudero
+D,20,Valera
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,24,Pedro Mosquera
+F,19,Miku
+--------------------------
+G,13,Andrs Fernndez
+D,14,Javi Arribas
+D,15,Oier Sonj
+D,22,Jordan Loties
+D,24,Damia
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+
+Malaga  VS.  Rayo Vallecano:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,14,Pedro Morales
+M,18,Eliseu
+M,30,Sergi Darder
+F,7,Mounir El Hamdaoui
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,17,Leonel  Galeano
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,22,Sal guez Esclapez
+M,23,Alberto Bueno
+M,25,Seba Fernndez
+F,20,Joaquin Larrivey
+
+Real Betis  VS.  Valencia:
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,23,Perez Nacho
+M,5,Mati
+M,6,Xavi Torres
+M,7,Alvaro Vadillo Cifuentes
+M,11,Juanfran
+M,14,Salva Sevilla
+F,19,Jorge Molina
+--------------------------
+G,1,Diego Alves
+D,12,Joao Pereira
+D,14,Juan Bernat
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,6,Oriol Romeu
+M,7,Jonas
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,21,Daniel Parejo
+F,9,Hlder Postiga
+
+Atletico Madrid  VS.  Celta Vigo:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,4,Mario Surez
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,12,Rafinha
+M,23,Michael Krohn-Dehli
+M,24,Augusto Fernndez
+F,11,Charles
+
+Sevilla FC  VS.  Almeria:
+G,13,Beto
+D,2,Federico Fazio
+D,5,Diogo Figueiras
+D,21,Nicolas Pareja
+D,32,Alberto
+M,7,Marko Marin
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,14,Bryan Rabello
+M,17,Jairo Samperio
+F,18,Kevin Gameiro
+--------------------------
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,18,Christian Fernndez
+D,22,Nlson
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,16,Sebastian Dubarbier
+F,10,Rodri
+F,17,Suso
+
+Getafe  VS.  Real Betis:
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,12,Arroyo
+D,15,Rafa Lopez
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,11,Adrin Colunga
+--------------------------
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,23,Perez Nacho
+M,5,Mati
+M,6,Xavi Torres
+M,10,Verd
+M,11,Juanfran
+M,20,Nosa Igiebor
+F,19,Jorge Molina
+
+Athletic Bilbao  VS.  Valencia:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,22,Enric Saborit
+M,7,Beat
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,10,Oscar de Marcos
+--------------------------
+G,13,Vicente Guaita
+D,18,Andrs Guardado
+D,19,Antonio Barragan
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,7,Jonas
+M,8,Sofiane Feghouli
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+F,16,Paco Alcacer
+
+Elche  VS.  Espanyol:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,4,David Rodriguez Lomban
+D,23,Domingo
+D,26,Charlie Dean L'anson
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,17,Javier Moreno Marquez
+F,14,Manu
+--------------------------
+G,13,Francisco Casilla
+D,3,Ral Rodrguez
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,14,David Lpez
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+
+Rayo Vallecano  VS.  Real Sociedad:
+G,13,Rubn
+D,18,Ze Castro
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+D,26,Johan Mojica
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,11,Nery Castillo
+M,24,Yago Falqu
+F,20,Joaquin Larrivey
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,24,Alberto de la Bella
+M,4,Gorka Urkola
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,11,Carlos Vela
+M,17,David Zurutuza
+F,9,Imanol Agirretxe
+
+Levante  VS.  Real Madrid:
+G,1,Keylor Navas
+D,4,David Navarro
+D,5,Hector Rodas
+D,12,Juanfran
+D,19,Pedro Lpez
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,10,Papa Babacar Diawara
+--------------------------
+G,25,Diego Lopez
+D,2,Raphael Varane
+D,4,Sergio Ramos
+D,5,Fbio Coentro
+D,17,lvaro Arbeloa
+M,6,Sami Khedira
+M,7,Cristiano Ronaldo
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,23,Isco
+F,9,Karim Benzema
+
+Barcelona  VS.  Real Valladolid:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,15,Marc Bartra
+D,21,Adriano
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,6,Xavi
+M,17,Alex Song
+F,9,Alexis Snchez
+F,11,Neymar
+F,20,Cristian Tello
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,8,Baraja
+M,14,Omar Ramos
+M,20,Patrick Ebert
+M,21,Zakara Bergdich
+F,9,Javi Guerra
+
+Villarreal  VS.  Granada:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,3,Bojan Jokic
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+M,4,Toms Pina
+M,10,Cani
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,9,Giovani Dos Santos
+F,24,Jonathan
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,8,Hassan Yebda
+M,10,Yacine Brahimi
+M,12,Diego Buonanotte
+M,18,Manuel Iturra
+M,23,Pereira
+F,9,Youssef El Arabi
+
+Malaga  VS.  Osasuna:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,14,Pedro Morales
+M,17,Duda
+M,30,Sergi Darder
+F,9,Roque Santa Cruz
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,11,Sisi
+M,20,Francisco Silva
+F,19,Oriol Riera Magem
+
+Granada  VS.  Athletic Bilbao:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,10,Yacine Brahimi
+M,12,Diego Buonanotte
+M,14,Recio
+M,18,Manuel Iturra
+M,23,Pereira
+F,9,Youssef El Arabi
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+M,7,Beat
+M,11,Ibai Gomez
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+
+Espanyol  VS.  Malaga:
+G,13,Francisco Casilla
+D,2,Felipe
+D,6,Sidnei
+D,15,Hctor Moreno
+D,18,Juan Rafael Fuentes Hernandez
+M,4,Vctor Snchez
+M,10,Pizzi
+M,14,David Lpez
+M,20,Simo
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,18,Eliseu
+M,28,Fabrice
+M,30,Sergi Darder
+F,9,Roque Santa Cruz
+
+Celta Vigo  VS.  Barcelona:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,15,Jon Aurtenetxe
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,12,Rafinha
+F,10,Nolito
+F,11,Charles
+F,24,Augusto Fernndez
+--------------------------
+G,1,Victor Valds
+D,5,Carles Puyol
+D,15,Marc Bartra
+D,21,Adriano
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,16,Sergio Busquets
+M,17,Alex Song
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+
+Getafe  VS.  Athletic Bilbao:
+G,1,Miguel Moya
+D,3,Roberto Lago
+D,4,Lisandro Lopez
+D,15,Rafa Lopez
+D,20,Valera
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,11,Adrin Colunga
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,10,Oscar de Marcos
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+
+Sevilla FC  VS.  Osasuna:
+G,13,Beto
+D,5,Diogo Figueiras
+D,6,Daniel Carrio
+D,21,Nicolas Pareja
+D,32,Alberto
+M,11,Ivan Rakitic
+M,17,Jairo Samperio
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+F,18,Kevin Gameiro
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,10,Francisco Pual
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+
+Villarreal  VS.  Valencia:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,10,Cani
+M,11,Hernn Prez
+M,14,Trigueros
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+--------------------------
+G,13,Vicente Guaita
+D,12,Joao Pereira
+D,14,Juan Bernat
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,7,Jonas
+M,10,Ever Banega
+M,15,Javi Fuego
+M,23,Sergio Canales Madrazo
+M,28,Federico Cartabia
+F,11,Dorlan Pabon
+
+Real Sociedad  VS.  Almeria:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,14,Rubn Pardo
+M,18,Gonzalo Castro Irizabal
+F,9,Imanol Agirretxe
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,14,Ral
+D,20,Rafita
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,16,Sebastian Dubarbier
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,10,Rodri
+
+Atletico Madrid  VS.  Real Betis:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,14,Gabi
+M,16,Oliver
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,13,Guillermo Sara
+D,11,Juanfran
+D,12,Didac
+D,15,Damien Perquis
+D,25,Jordi Figueras Montel
+M,5,Mati
+M,7,Alvaro Vadillo Cifuentes
+M,20,Nosa Igiebor
+M,21,Lorenzo Reyes
+M,22,Cedric
+F,9,Chuli
+
+Malaga  VS.  Celta Vigo:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,23,Roberto Chen
+M,6,Ignacio Camacho
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,17,Duda
+F,7,Mounir El Hamdaoui
+F,9,Roque Santa Cruz
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,15,Jon Aurtenetxe
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,24,Augusto Fernndez
+F,10,Nolito
+F,11,Charles
+F,29,Santi Mina
+
+Barcelona  VS.  Real Madrid:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,21,Adriano
+D,22,Dani Alves
+M,6,Xavi
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,4,Cesc Fbregas
+F,10,Lionel Messi
+F,11,Neymar
+--------------------------
+G,25,Diego Lopez
+D,2,Raphael Varane
+D,3,Pepe
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,4,Sergio Ramos
+M,6,Sami Khedira
+M,19,Luka Modric
+F,7,Cristiano Ronaldo
+F,11,Gareth Bale
+F,22,ngel Di Mara
+
+Elche  VS.  Granada:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,8,Sergio Mantecn
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,17,Javier Moreno Marquez
+F,14,Manu
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,22,Dimitri Foulquier
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,7,Odion Ighalo
+F,10,Yacine Brahimi
+F,23,Pereira
+
+Levante  VS.  Espanyol:
+G,1,Keylor Navas
+D,4,David Navarro
+D,5,Hector Rodas
+D,12,Juanfran
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,10,Papa Babacar Diawara
+--------------------------
+G,13,Francisco Casilla
+D,6,Sidnei
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,10,Pizzi
+M,14,David Lpez
+M,20,Simo
+F,9,Sergio Garca
+
+Rayo Vallecano  VS.  Real Valladolid:
+G,13,Rubn
+D,2,Tito
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+D,26,Johan Mojica
+M,4,Ral Baena
+M,10,Roberto Trashorras
+M,14,Alberto Perea
+M,19,Jonathan Viera
+M,24,Yago Falqu
+F,11,Nery Castillo
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,8,Baraja
+M,19,Valdet Rama
+M,20,Patrick Ebert
+F,9,Javi Guerra
+F,23,Manucho
+
+Celta Vigo  VS.  Levante:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,12,Rafinha
+M,23,Michael Krohn-Dehli
+F,10,Nolito
+F,11,Charles
+F,29,Santi Mina
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,5,Hector Rodas
+D,12,Juanfran
+D,19,Pedro Lpez
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,10,Papa Babacar Diawara
+
+Athletic Bilbao  VS.  Villarreal:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,10,Oscar de Marcos
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+F,20,Aritz Aduriz
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,4,Toms Pina
+M,10,Cani
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,9,Giovani Dos Santos
+F,24,Jonathan
+
+Granada  VS.  Getafe:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,10,Yacine Brahimi
+M,12,Diego Buonanotte
+M,14,Recio
+M,18,Manuel Iturra
+M,23,Pereira
+F,9,Youssef El Arabi
+--------------------------
+G,1,Miguel Moya
+D,3,Roberto Lago
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,15,Rafa Lopez
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,11,Adrin Colunga
+
+Almeria  VS.  Rayo Vallecano:
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,14,Ral
+D,22,Nlson
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,15,Miguel Angel Corona
+M,17,Suso
+M,23,Fernando Soriano
+F,10,Rodri
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,24,Yago Falqu
+F,11,Nery Castillo
+
+Real Betis  VS.  Elche:
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,23,Perez Nacho
+M,5,Mati
+M,11,Juanfran
+M,14,Salva Sevilla
+M,17,Juan Carlos
+M,21,Lorenzo Reyes
+F,19,Jorge Molina
+--------------------------
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,23,Domingo
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,17,Javier Moreno Marquez
+F,14,Manu
+
+Real Valladolid  VS.  Sevilla FC:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,8,Baraja
+M,14,Omar Ramos
+M,20,Patrick Ebert
+M,21,Zakara Bergdich
+F,9,Javi Guerra
+--------------------------
+G,13,Beto
+D,3,Fernando Navarro
+D,4,Cala
+D,21,Nicolas Pareja
+M,5,Diogo Figueiras
+M,6,Daniel Carrio
+M,12,Vicente Iborra de la Fuente
+M,32,Alberto
+F,9,Carlos Bacca
+F,17,Jairo Samperio
+F,20,Vitolo
+
+Real Madrid  VS.  Malaga:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,6,Sami Khedira
+M,23,Isco
+M,24,Asier Illarramendi
+F,7,Cristiano Ronaldo
+F,21,lvaro Morata
+F,22,ngel Di Mara
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,18,Eliseu
+F,7,Mounir El Hamdaoui
+F,24,Samuel
+
+Valencia  VS.  Real Sociedad:
+G,13,Vicente Guaita
+D,5,Victor Ruiz
+D,12,Joao Pereira
+D,22,Jrmy Mathieu
+M,8,Sofiane Feghouli
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+M,18,Andrs Guardado
+F,7,Jonas
+F,9,Hlder Postiga
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,24,Alberto de la Bella
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,11,Carlos Vela
+M,14,Rubn Pardo
+M,17,David Zurutuza
+F,9,Imanol Agirretxe
+
+Osasuna  VS.  Barcelona:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,11,Sisi
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+--------------------------
+G,1,Victor Valds
+D,2,Martin Montoya
+D,5,Carles Puyol
+D,15,Marc Bartra
+D,21,Adriano
+M,6,Xavi
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,4,Cesc Fbregas
+F,7,Pedro
+F,11,Neymar
+
+Espanyol  VS.  Atletico Madrid:
+G,13,Francisco Casilla
+D,6,Sidnei
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+M,10,Pizzi
+M,12,Manu Lanzarote
+M,14,David Lpez
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,12,Toby Alderweireld
+D,20,Francisco Juanfran
+M,4,Mario Surez
+M,6,Koke
+M,8,Ral Garca
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Elche  VS.  Villarreal:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,23,Domingo
+M,6,Rubn Prez
+M,7,Aarn
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,14,Manu
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,18,Jaume
+D,20,Gabriel Paulista
+M,10,Cani
+M,11,Hernn Prez
+M,14,Trigueros
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+
+Getafe  VS.  Valencia:
+G,1,Miguel Moya
+D,2,Alexis
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,18,Sergio Escudero
+M,7,Lafita
+M,8,Sarabia
+M,14,Pedro Len
+M,23,Borja
+M,24,Pedro Mosquera
+F,9,Ciprian Marica
+--------------------------
+G,1,Diego Alves
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,10,Ever Banega
+M,15,Javi Fuego
+M,21,Daniel Parejo
+F,2,Pablo Piatti
+F,11,Dorlan Pabon
+F,16,Paco Alcacer
+
+Atletico Madrid  VS.  Athletic Bilbao:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,7,Adrin
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,6,Mikel San Jose
+M,7,Beat
+M,17,Moreno Mikel Rico
+F,10,Oscar de Marcos
+F,19,Iker Munian
+F,20,Aritz Aduriz
+
+Levante  VS.  Granada:
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,11,Rubn Garca
+M,16,Issam Adoua
+M,22,Christian Lell
+M,23,Pape Diop
+F,10,Papa Babacar Diawara
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,12,Diego Buonanotte
+F,23,Pereira
+
+Malaga  VS.  Real Betis:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,18,Eliseu
+M,28,Fabrice
+M,30,Sergi Darder
+F,9,Roque Santa Cruz
+--------------------------
+G,1,Stephan Andersen
+D,11,Juanfran
+D,15,Damien Perquis
+D,23,Perez Nacho
+D,25,Jordi Figueras Montel
+M,6,Xavi Torres
+M,7,Alvaro Vadillo Cifuentes
+M,8,Nono
+M,10,Verd
+M,17,Juan Carlos
+F,19,Jorge Molina
+
+Real Sociedad  VS.  Osasuna:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,4,Gorka Urkola
+M,7,Antoine Griezmann
+M,14,Rubn Pardo
+M,17,David Zurutuza
+M,18,Gonzalo Castro Irizabal
+F,11,Carlos Vela
+--------------------------
+G,13,Andrs Fernndez
+D,14,Javi Arribas
+D,15,Oier Sonj
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+
+Almeria  VS.  Real Valladolid:
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,10,Rodri
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,11,Daniel Larsson
+M,14,Omar Ramos
+M,18,Alvaro Rubio
+M,20,Patrick Ebert
+F,9,Javi Guerra
+
+Rayo Vallecano  VS.  Real Madrid:
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,22,Sal guez Esclapez
+M,24,Yago Falqu
+F,19,Jonathan Viera
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,5,Fbio Coentro
+D,15,Daniel Carvajal
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,11,Gareth Bale
+
+Sevilla FC  VS.  Celta Vigo:
+G,13,Beto
+D,5,Diogo Figueiras
+D,6,Daniel Carrio
+D,21,Nicolas Pareja
+D,32,Alberto
+M,11,Ivan Rakitic
+M,17,Jairo Samperio
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+F,18,Kevin Gameiro
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,24,Augusto Fernndez
+F,10,Nolito
+F,11,Charles
+F,29,Santi Mina
+
+Barcelona  VS.  Espanyol:
+G,1,Victor Valds
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,22,Dani Alves
+M,6,Xavi
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,9,Alexis Snchez
+F,10,Lionel Messi
+F,11,Neymar
+--------------------------
+G,13,Francisco Casilla
+D,3,Ral Rodrguez
+D,6,Sidnei
+D,15,Hctor Moreno
+D,18,Juan Rafael Fuentes Hernandez
+M,4,Vctor Snchez
+M,7,Thievy Bifouma 
+M,14,David Lpez
+M,23,Abraham Gonzlez
+M,25,Gabriel Torje
+F,9,Sergio Garca
+
+Granada  VS.  Atletico Madrid:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,22,Dimitri Foulquier
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,7,Odion Ighalo
+F,10,Yacine Brahimi
+F,23,Pereira
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,4,Mario Surez
+M,6,Koke
+M,7,Adrin
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Villarreal  VS.  Getafe:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,18,Jaume
+D,29,Pablo
+M,4,Toms Pina
+M,9,Giovani Dos Santos
+M,10,Cani
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,7,Jrmy Perbet
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,15,Rafa Lopez
+D,20,Valera
+M,10,Jaime Gaviln Martnez
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,23,Borja
+F,9,Ciprian Marica
+
+Athletic Bilbao  VS.  Elche:
+G,13,Iago Herrern
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,2,Gaizka Toquero
+--------------------------
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,23,Domingo
+M,6,Rubn Prez
+M,7,Aarn
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,11,Coro
+
+Real Betis  VS.  Levante:
+G,1,Stephan Andersen
+D,2,Francisco Chica Torres
+D,4,Antonio Amaya
+D,15,Damien Perquis
+D,23,Perez Nacho
+M,6,Xavi Torres
+M,9,Chuli
+M,10,Verd
+M,11,Juanfran
+M,17,Juan Carlos
+F,19,Jorge Molina
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,5,Hector Rodas
+D,12,Juanfran
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,17,Jordi Xumetra Feliu
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,10,Papa Babacar Diawara
+
+Real Valladolid  VS.  Real Sociedad:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,8,Baraja
+M,11,Daniel Larsson
+M,19,Valdet Rama
+M,20,Patrick Ebert
+F,9,Javi Guerra
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,19,Cadamuro
+D,24,Alberto de la Bella
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,17,David Zurutuza
+F,8,Haris Seferovic
+
+Valencia  VS.  Almeria:
+G,1,Diego Alves
+D,12,Joao Pereira
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,8,Sofiane Feghouli
+M,15,Javi Fuego
+M,18,Andrs Guardado
+M,21,Daniel Parejo
+M,28,Federico Cartabia
+F,7,Jonas
+F,9,Hlder Postiga
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,7,Verza
+M,11,Hlder Barbosa
+M,17,Suso
+M,31,Ramn Azeez
+F,10,Rodri
+
+Osasuna  VS.  Rayo Vallecano:
+G,13,Andrs Fernndez
+D,3,Joan Oriol
+D,14,Javi Arribas
+D,15,Oier Sonj
+D,22,Jordan Loties
+M,8,Miguel de las Cuevas
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+M,23,Raoul Loe
+F,19,Oriol Riera Magem
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,24,Yago Falqu
+F,23,Alberto Bueno
+
+Real Madrid  VS.  Sevilla FC:
+G,25,Diego Lopez
+D,2,Raphael Varane
+D,4,Sergio Ramos
+D,12,Marcelo
+D,17,lvaro Arbeloa
+M,6,Sami Khedira
+M,7,Cristiano Ronaldo
+M,11,Gareth Bale
+M,23,Isco
+M,24,Asier Illarramendi
+F,9,Karim Benzema
+--------------------------
+G,13,Beto
+D,3,Fernando Navarro
+D,5,Diogo Figueiras
+D,6,Daniel Carrio
+D,21,Nicolas Pareja
+D,32,Alberto
+M,11,Ivan Rakitic
+M,17,Jairo Samperio
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+
+Espanyol  VS.  Sevilla FC:
+G,13,Francisco Casilla
+D,6,Sidnei
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+M,3,Ral Rodrguez
+M,4,Vctor Snchez
+M,12,Manu Lanzarote
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,5,Diogo Figueiras
+D,21,Nicolas Pareja
+D,32,Alberto
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,17,Jairo Samperio
+M,20,Vitolo
+F,9,Carlos Bacca
+
+Valencia  VS.  Real Valladolid:
+G,13,Vicente Guaita
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,10,Ever Banega
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+M,21,Daniel Parejo
+F,16,Paco Alcacer
+--------------------------
+G,13,Diego Marino Villar
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+D,24,Gilberto Garca
+M,5,Fausto Rossi
+M,16,Lluis Sastre
+M,18,Alvaro Rubio
+F,9,Javi Guerra
+F,11,Daniel Larsson
+F,21,Zakara Bergdich
+
+Villarreal  VS.  Atletico Madrid:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,18,Jaume
+D,20,Gabriel Paulista
+M,4,Toms Pina
+M,10,Cani
+M,11,Hernn Prez
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,24,Jonathan
+--------------------------
+G,13,Thibaut Courtois
+D,12,Toby Alderweireld
+D,20,Francisco Juanfran
+D,22,Emiliano Insua
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,8,Ral Garca
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Real Betis  VS.  Barcelona:
+G,13,Guillermo Sara
+D,18,Markus Steinhfer
+D,23,Perez Nacho
+D,25,Jordi Figueras Montel
+D,36,Jos Antonio Caro
+M,6,Xavi Torres
+M,7,Alvaro Vadillo Cifuentes
+M,8,Nono
+M,10,Verd
+M,17,Juan Carlos
+F,19,Jorge Molina
+--------------------------
+G,1,Victor Valds
+D,2,Martin Montoya
+D,5,Carles Puyol
+D,15,Marc Bartra
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,6,Xavi
+M,17,Alex Song
+F,7,Pedro
+F,10,Lionel Messi
+F,11,Neymar
+
+Real Madrid  VS.  Real Sociedad:
+G,25,Diego Lopez
+D,2,Raphael Varane
+D,3,Pepe
+D,15,Daniel Carvajal
+D,17,lvaro Arbeloa
+M,6,Sami Khedira
+M,14,Xabi Alonso
+M,19,Luka Modric
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,11,Gareth Bale
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,20,Jose Angel
+M,4,Gorka Urkola
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+F,8,Haris Seferovic
+
+Getafe  VS.  Elche:
+G,1,Miguel Moya
+D,3,Roberto Lago
+D,4,Lisandro Lopez
+D,15,Rafa Lopez
+D,20,Valera
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,9,Ciprian Marica
+--------------------------
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,18,Sergio Pelegrin
+D,23,Domingo
+M,6,Rubn Prez
+M,7,Aarn
+M,15,Carles Gil de Pareja Vicent
+M,17,Javier Moreno Marquez
+M,24,Carlos Sanchez
+F,9,Richmond Boakye
+
+Athletic Bilbao  VS.  Levante:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,10,Oscar de Marcos
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+M,7,Beat
+M,8,Ander Iturraspe
+M,11,Ibai Gomez
+M,14,Markel Susaeta
+M,19,Iker Munian
+F,28,Guillermo
+--------------------------
+G,1,Keylor Navas
+D,5,Hector Rodas
+D,12,Juanfran
+D,16,Issam Adoua
+D,19,Pedro Lpez
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+
+Celta Vigo  VS.  Rayo Vallecano:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,20,Toni
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,24,Augusto Fernndez
+F,10,Nolito
+F,11,Charles
+F,29,Santi Mina
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,21,Anaitz Arbilla
+M,7,Lass
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,22,Sal guez Esclapez
+M,24,Yago Falqu
+F,23,Alberto Bueno
+
+Osasuna  VS.  Almeria:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,4,Miguel Flao
+D,14,Javi Arribas
+D,24,Damia
+M,9,Emiliano Armenteros
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+M,23,Raoul Loe
+F,19,Oriol Riera Magem
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,6,Marcos Tebar
+M,8,Alexis Vidal Parreu
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,10,Rodri
+
+Granada  VS.  Malaga:
+G,13,Roberto
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,22,Dimitri Foulquier
+D,24,Murillo
+M,4,Fran Rico
+M,8,Hassan Yebda
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,12,Diego Buonanotte
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,18,Eliseu
+M,28,Fabrice
+M,30,Sergi Darder
+F,24,Samuel
+
+Real Betis  VS.  Rayo Vallecano:
+G,13,Guillermo Sara
+D,4,Antonio Amaya
+D,11,Juanfran
+D,23,Perez Nacho
+D,25,Jordi Figueras Montel
+M,7,Alvaro Vadillo Cifuentes
+M,8,Nono
+M,14,Salva Sevilla
+M,21,Lorenzo Reyes
+M,24,Rubn Castro
+F,19,Jorge Molina
+--------------------------
+G,1,David Cobeo
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,17,Leonel  Galeano
+D,22,Sal guez Esclapez
+M,4,Ral Baena
+M,7,Lass
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,24,Yago Falqu
+F,20,Joaquin Larrivey
+
+Granada  VS.  Sevilla FC:
+G,13,Roberto
+D,15,Pape Diakhate
+D,16,Brayan Angulo
+D,22,Dimitri Foulquier
+D,24,Murillo
+M,4,Fran Rico
+M,8,Hassan Yebda
+M,14,Recio
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,5,Diogo Figueiras
+D,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,17,Jairo Samperio
+M,19,Jos Antonio Reyes
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+
+Valencia  VS.  Osasuna:
+G,1,Diego Alves
+D,5,Victor Ruiz
+D,18,Andrs Guardado
+D,19,Antonio Barragan
+D,22,Jrmy Mathieu
+M,6,Oriol Romeu
+M,8,Sofiane Feghouli
+M,14,Juan Bernat
+M,21,Daniel Parejo
+M,23,Sergio Canales Madrazo
+F,7,Jonas
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,16,Alvaro Cejudo
+F,19,Oriol Riera Magem
+
+Athletic Bilbao  VS.  Barcelona:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,2,Gaizka Toquero
+--------------------------
+G,13,Jos Manuel Pinto
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,21,Adriano
+M,6,Xavi
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,4,Cesc Fbregas
+F,9,Alexis Snchez
+F,11,Neymar
+
+Elche  VS.  Atletico Madrid:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,9,Richmond Boakye
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+
+Celta Vigo  VS.  Almeria:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,15,Jon Aurtenetxe
+D,20,Toni
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,12,Rafinha
+F,11,Charles
+F,14,Fabin Orellana
+F,23,Michael Krohn-Dehli
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,9,Oscar Diaz
+
+Real Madrid  VS.  Real Valladolid:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,11,Gareth Bale
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,23,Isco
+F,9,Karim Benzema
+--------------------------
+G,13,Diego Marino Villar
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+D,24,Gilberto Garca
+M,5,Fausto Rossi
+M,16,Lluis Sastre
+M,18,Alvaro Rubio
+F,9,Javi Guerra
+F,11,Daniel Larsson
+F,21,Zakara Bergdich
+
+Espanyol  VS.  Real Sociedad:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,3,Ral Rodrguez
+M,8,Christian Stuani
+M,14,David Lpez
+M,17,Vctor lvarez Delgado
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,24,Alberto de la Bella
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,23,Javier Ariel Rosada
+F,9,Imanol Agirretxe
+
+Getafe  VS.  Levante:
+G,1,Miguel Moya
+D,2,Alexis
+D,12,Arroyo
+D,15,Rafa Lopez
+D,18,Sergio Escudero
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,11,Adrin Colunga
+--------------------------
+G,13,Javi Jimenez
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+
+Villarreal  VS.  Malaga:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,18,Jaume
+D,20,Gabriel Paulista
+M,10,Cani
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,24,Jonathan
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,12,Fernando Tissone
+M,18,Eliseu
+M,24,Samuel
+M,30,Sergi Darder
+F,26,Juanmi
+
+Malaga  VS.  Athletic Bilbao:
+G,13,Wilfredo Caballero
+D,3,Weligton
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,18,Eliseu
+M,30,Sergi Darder
+F,24,Samuel
+F,26,Juanmi
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,11,Ibai Gomez
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,28,Guillermo
+
+Levante  VS.  Villarreal:
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,22,Christian Lell
+M,8,Nabil El Zhar
+M,17,Jordi Xumetra Feliu
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,10,Papa Babacar Diawara
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,3,Bojan Jokic
+D,5,Mateo Musacchio
+D,20,Gabriel Paulista
+M,10,Cani
+M,11,Hernn Prez
+M,14,Trigueros
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,24,Jonathan
+
+Rayo Vallecano  VS.  Espanyol:
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,17,Leonel  Galeano
+D,21,Anaitz Arbilla
+M,7,Lass
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,22,Sal guez Esclapez
+M,24,Yago Falqu
+F,23,Alberto Bueno
+--------------------------
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,3,Ral Rodrguez
+M,14,David Lpez
+M,17,Vctor lvarez Delgado
+M,25,Gabriel Torje
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+
+Elche  VS.  Valencia:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,5,Alberto Rivera
+M,16,Fidel
+M,17,Javier Moreno Marquez
+M,22,Miroslav Stevanovic
+M,24,Carlos Sanchez
+F,9,Richmond Boakye
+--------------------------
+G,1,Diego Alves
+D,18,Andrs Guardado
+D,19,Antonio Barragan
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,11,Dorlan Pabon
+M,15,Javi Fuego
+M,21,Daniel Parejo
+M,23,Sergio Canales Madrazo
+M,28,Federico Cartabia
+F,7,Jonas
+
+Sevilla FC  VS.  Real Betis:
+G,13,Beto
+D,2,Federico Fazio
+D,5,Diogo Figueiras
+D,6,Daniel Carrio
+D,32,Alberto
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+--------------------------
+G,13,Guillermo Sara
+D,3,Paulo
+D,4,Antonio Amaya
+D,11,Juanfran
+D,12,Didac
+M,6,Xavi Torres
+M,7,Alvaro Vadillo Cifuentes
+M,8,Nono
+M,10,Verd
+M,18,Markus Steinhfer
+F,19,Jorge Molina
+
+Barcelona  VS.  Granada:
+G,13,Jos Manuel Pinto
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,15,Marc Bartra
+D,21,Adriano
+M,4,Cesc Fbregas
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,7,Pedro
+F,9,Alexis Snchez
+F,11,Neymar
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,15,Pape Diakhate
+D,22,Dimitri Foulquier
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+
+Real Sociedad  VS.  Celta Vigo:
+G,1,Claudio Bravo
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,24,Alberto de la Bella
+D,31,Zalda
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,17,David Zurutuza
+M,18,Gonzalo Castro Irizabal
+F,11,Carlos Vela
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,15,Jon Aurtenetxe
+D,19,Jonny
+D,22,Gustavo Cabral
+M,3,Fonts
+M,8,lex Lpez
+M,24,Augusto Fernndez
+F,10,Nolito
+F,11,Charles
+F,12,Rafinha
+
+Almeria  VS.  Real Madrid:
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,31,Ramn Azeez
+F,10,Rodri
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,15,Daniel Carvajal
+D,17,lvaro Arbeloa
+M,7,Cristiano Ronaldo
+M,11,Gareth Bale
+M,14,Xabi Alonso
+M,23,Isco
+M,24,Asier Illarramendi
+F,9,Karim Benzema
+
+Atletico Madrid  VS.  Getafe:
+G,13,Thibaut Courtois
+D,3,Filipe Luis
+D,12,Toby Alderweireld
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,8,Ral Garca
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,6,Alberto Lopo
+D,20,Valera
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,23,Borja
+F,7,Lafita
+F,11,Adrin Colunga
+
+Real Valladolid  VS.  Osasuna:
+G,13,Diego Marino Villar
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+D,24,Gilberto Garca
+M,11,Daniel Larsson
+M,16,Lluis Sastre
+M,18,Alvaro Rubio
+M,20,Patrick Ebert
+M,21,Zakara Bergdich
+F,9,Javi Guerra
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,21,Roberto Torres
+F,16,Alvaro Cejudo
+
+Espanyol  VS.  Real Valladolid:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,9,Sergio Garca
+M,14,David Lpez
+M,20,Simo
+F,24,Jhon Cordoba
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,10,scar Gonzlez
+M,18,Alvaro Rubio
+M,20,Patrick Ebert
+M,21,Zakara Bergdich
+F,9,Javi Guerra
+
+Getafe  VS.  Barcelona:
+G,1,Miguel Moya
+D,2,Alexis
+D,4,Lisandro Lopez
+D,18,Sergio Escudero
+D,20,Valera
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,9,Ciprian Marica
+--------------------------
+G,13,Jos Manuel Pinto
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+D,22,Dani Alves
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+M,24,Sergi Roberto
+F,4,Cesc Fbregas
+F,7,Pedro
+F,9,Alexis Snchez
+
+Athletic Bilbao  VS.  Rayo Vallecano:
+G,1,Gorka Iraizoz
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,2,Gaizka Toquero
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,5,Alejandro Glvez
+D,18,Ze Castro
+D,26,Johan Mojica
+M,7,Lass
+M,8,Adrian Gonzalez
+M,14,Alberto Perea
+M,22,Sal guez Esclapez
+M,23,Alberto Bueno
+F,19,Jonathan Viera
+
+Celta Vigo  VS.  Osasuna:
+G,13,Yoel Rodrguez Oterino
+D,3,Fonts
+D,15,Jon Aurtenetxe
+D,19,Jonny
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,23,Michael Krohn-Dehli
+M,24,Augusto Fernndez
+F,12,Rafinha
+F,14,Fabin Orellana
+F,29,Santi Mina
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,4,Miguel Flao
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,16,Alvaro Cejudo
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+
+Valencia  VS.  Real Madrid:
+G,13,Vicente Guaita
+D,5,Victor Ruiz
+D,12,Joao Pereira
+D,14,Juan Bernat
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,6,Oriol Romeu
+M,8,Sofiane Feghouli
+M,21,Daniel Parejo
+M,28,Federico Cartabia
+F,7,Jonas
+--------------------------
+G,25,Diego Lopez
+D,4,Sergio Ramos
+D,12,Marcelo
+D,17,lvaro Arbeloa
+D,18,Nacho Fernandez
+M,7,Cristiano Ronaldo
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,23,Isco
+F,9,Karim Benzema
+
+Villarreal  VS.  Sevilla FC:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,18,Jaume
+D,20,Gabriel Paulista
+M,11,Hernn Prez
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,4,Cala
+D,23,Coke Andjar
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+F,9,Carlos Bacca
+
+Real Betis  VS.  Almeria:
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,12,Didac
+D,25,Jordi Figueras Montel
+M,5,Mati
+M,7,Alvaro Vadillo Cifuentes
+M,17,Juan Carlos
+M,21,Lorenzo Reyes
+F,19,Jorge Molina
+F,24,Rubn Castro
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,6,Marcos Tebar
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,11,Hlder Barbosa
+M,31,Ramn Azeez
+F,9,Oscar Diaz
+
+Atletico Madrid  VS.  Levante:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+M,19,Pedro Lpez
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+F,11,Rubn Garca
+
+Granada  VS.  Real Sociedad:
+G,13,Roberto
+D,5,Mainz
+D,16,Brayan Angulo
+D,22,Dimitri Foulquier
+D,24,Murillo
+M,4,Fran Rico
+M,8,Hassan Yebda
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,14,Rubn Pardo
+F,9,Imanol Agirretxe
+
+Elche  VS.  Malaga:
+G,13,Too
+D,2,Damin Surez
+D,3,Alberto Bota
+D,18,Sergio Pelegrin
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,9,Richmond Boakye
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,14,Pedro Morales
+M,17,Duda
+F,26,Juanmi
+
+Real Valladolid  VS.  Celta Vigo:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,11,Daniel Larsson
+M,14,Omar Ramos
+M,18,Alvaro Rubio
+M,20,Patrick Ebert
+F,9,Javi Guerra
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,15,Jon Aurtenetxe
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,10,Nolito
+M,12,Rafinha
+M,24,Augusto Fernndez
+F,11,Charles
+
+Almeria  VS.  Espanyol:
+G,1,Suarez Esteban
+D,4,Hernan Dario Pellerano
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,22,Nlson
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,9,Oscar Diaz
+--------------------------
+G,13,Francisco Casilla
+D,3,Ral Rodrguez
+D,15,Hctor Moreno
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,14,David Lpez
+M,25,Gabriel Torje
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+
+Real Sociedad  VS.  Real Betis:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,14,Rubn Pardo
+F,9,Imanol Agirretxe
+--------------------------
+G,1,Stephan Andersen
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,23,Perez Nacho
+M,7,Alvaro Vadillo Cifuentes
+M,8,Nono
+M,10,Verd
+M,21,Lorenzo Reyes
+F,19,Jorge Molina
+F,24,Rubn Castro
+
+Sevilla FC  VS.  Athletic Bilbao:
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,4,Cala
+D,5,Diogo Figueiras
+M,6,Daniel Carrio
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+M,22,Stphane M'Bia
+M,32,Alberto
+F,9,Carlos Bacca
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,10,Oscar de Marcos
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,2,Gaizka Toquero
+
+Atletico Madrid  VS.  Valencia:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,1,Diego Alves
+D,5,Victor Ruiz
+D,18,Andrs Guardado
+D,19,Antonio Barragan
+D,22,Jrmy Mathieu
+M,6,Oriol Romeu
+M,8,Sofiane Feghouli
+M,14,Juan Bernat
+M,21,Daniel Parejo
+M,23,Sergio Canales Madrazo
+F,7,Jonas
+
+Osasuna  VS.  Real Madrid:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,9,Emiliano Armenteros
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,7,Cristiano Ronaldo
+M,11,Gareth Bale
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,23,Isco
+F,9,Karim Benzema
+
+Rayo Vallecano  VS.  Granada:
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,17,Leonel  Galeano
+M,4,Ral Baena
+M,10,Roberto Trashorras
+M,23,Alberto Bueno
+F,7,Lass
+F,19,Jonathan Viera
+F,20,Joaquin Larrivey
+--------------------------
+G,13,Roberto
+D,5,Mainz
+D,16,Brayan Angulo
+D,22,Dimitri Foulquier
+D,24,Murillo
+M,4,Fran Rico
+M,8,Hassan Yebda
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+
+Barcelona  VS.  Villarreal:
+G,13,Jos Manuel Pinto
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,15,Marc Bartra
+D,18,Jordi Alba
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+M,17,Alex Song
+F,4,Cesc Fbregas
+F,9,Alexis Snchez
+F,11,Neymar
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,4,Toms Pina
+M,11,Hernn Prez
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,28,Eduardo  Gomez
+F,9,Giovani Dos Santos
+
+Malaga  VS.  Getafe:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,14,Pedro Morales
+M,18,Eliseu
+F,26,Juanmi
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,12,Arroyo
+D,15,Rafa Lopez
+M,5,Medhi Lacen
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,24,Pedro Mosquera
+F,9,Ciprian Marica
+
+Levante  VS.  Elche:
+G,1,Keylor Navas
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,18,Sergio Pinto
+M,20,Pedro Ros
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,10,Papa Babacar Diawara
+--------------------------
+G,13,Too
+D,3,Alberto Bota
+D,18,Sergio Pelegrin
+D,19,Cristian Sapunaru
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,9,Richmond Boakye
+
+Villarreal  VS.  Real Sociedad:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+M,27,Moiss Gmez
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,14,Rubn Pardo
+F,9,Imanol Agirretxe
+
+Getafe  VS.  Rayo Vallecano:
+G,1,Miguel Moya
+D,4,Lisandro Lopez
+D,15,Rafa Lopez
+D,18,Sergio Escudero
+D,20,Valera
+M,5,Medhi Lacen
+M,7,Lafita
+M,8,Sarabia
+M,14,Pedro Len
+M,23,Borja
+F,9,Ciprian Marica
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,22,Sal guez Esclapez
+M,4,Ral Baena
+M,7,Lass
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,23,Alberto Bueno
+F,11,Nery Castillo
+
+Real Betis  VS.  Osasuna:
+G,1,Stephan Andersen
+D,3,Paulo
+D,4,Antonio Amaya
+D,11,Juanfran
+D,23,Perez Nacho
+M,8,Nono
+M,14,Salva Sevilla
+M,21,Lorenzo Reyes
+F,6,Leo Baptistao
+F,7,Alvaro Vadillo Cifuentes
+F,24,Rubn Castro
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+
+Espanyol  VS.  Real Madrid:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,3,Ral Rodrguez
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,22,Alex
+M,25,Gabriel Torje
+F,24,Jhon Cordoba
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,11,Gareth Bale
+
+Levante  VS.  Malaga:
+G,1,Keylor Navas
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+D,19,Pedro Lpez
+M,11,Rubn Garca
+M,17,Jordi Xumetra Feliu
+M,18,Sergio Pinto
+M,21,Andreas Ivanschitz
+M,24,Simo Mate Junior
+F,7,David Barral
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,18,Eliseu
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,8,Francisco Portillo
+M,12,Fernando Tissone
+M,17,Duda
+M,24,Samuel
+F,9,Roque Santa Cruz
+
+Athletic Bilbao  VS.  Almeria:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,11,Hlder Barbosa
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,9,Oscar Diaz
+
+Celta Vigo  VS.  Valencia:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,19,Jonny
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,24,Augusto Fernndez
+F,11,Charles
+F,12,Rafinha
+F,14,Fabin Orellana
+--------------------------
+G,1,Diego Alves
+D,12,Joao Pereira
+D,18,Andrs Guardado
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,6,Oriol Romeu
+M,8,Sofiane Feghouli
+M,21,Daniel Parejo
+M,23,Sergio Canales Madrazo
+F,7,Jonas
+
+Atletico Madrid  VS.  Barcelona:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+D,22,Dani Alves
+M,6,Xavi
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,4,Cesc Fbregas
+F,7,Pedro
+F,9,Alexis Snchez
+
+Elche  VS.  Sevilla FC:
+G,13,Too
+D,2,Damin Surez
+D,4,David Rodriguez Lomban
+D,18,Sergio Pelegrin
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,7,Aarn
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,17,Javier Moreno Marquez
+F,9,Richmond Boakye
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,6,Daniel Carrio
+D,23,Coke Andjar
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+
+Granada  VS.  Real Valladolid:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,16,Brayan Angulo
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,10,scar Gonzlez
+M,14,Omar Ramos
+M,21,Zakara Bergdich
+M,22,Victor Perez
+F,9,Javi Guerra
+
+Real Madrid  VS.  Celta Vigo:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,7,Cristiano Ronaldo
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,23,Isco
+F,9,Karim Benzema
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,19,Jonny
+D,22,Gustavo Cabral
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,24,Augusto Fernndez
+F,11,Charles
+F,12,Rafinha
+F,14,Fabin Orellana
+
+Rayo Vallecano  VS.  Villarreal:
+G,1,David Cobeo
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,6,Sergio Rodri
+M,7,Lass
+M,8,Adrian Gonzalez
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,22,Sal guez Esclapez
+F,23,Alberto Bueno
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,4,Toms Pina
+M,11,Hernn Prez
+M,14,Trigueros
+M,27,Moiss Gmez
+F,7,Jrmy Perbet
+F,8,Ikechukwu Uche
+
+Sevilla FC  VS.  Getafe:
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,6,Daniel Carrio
+D,23,Coke Andjar
+M,11,Ivan Rakitic
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+M,22,Stphane M'Bia
+F,9,Carlos Bacca
+F,18,Kevin Gameiro
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,18,Sergio Escudero
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,23,Borja
+M,24,Pedro Mosquera
+F,11,Adrin Colunga
+
+Barcelona  VS.  Elche:
+G,1,Victor Valds
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,15,Marc Bartra
+D,18,Jordi Alba
+M,6,Xavi
+M,8,Andrs Iniesta
+M,17,Alex Song
+F,4,Cesc Fbregas
+F,7,Pedro
+F,9,Alexis Snchez
+--------------------------
+G,13,Too
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,19,Cristian Sapunaru
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,7,Aarn
+M,15,Carles Gil de Pareja Vicent
+M,16,Fidel
+M,24,Carlos Sanchez
+F,9,Richmond Boakye
+
+Osasuna  VS.  Espanyol:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,3,Joan Oriol
+D,14,Javi Arribas
+D,22,Jordan Loties
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,16,Alvaro Cejudo
+F,19,Oriol Riera Magem
+--------------------------
+G,13,Francisco Casilla
+D,11,Joan Capdevila
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,19,Diego Colotto
+M,8,Christian Stuani
+M,14,David Lpez
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+
+Real Sociedad  VS.  Athletic Bilbao:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,14,Rubn Pardo
+F,9,Imanol Agirretxe
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,10,Oscar de Marcos
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+
+Malaga  VS.  Atletico Madrid:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,3,Weligton
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,18,Eliseu
+M,24,Samuel
+M,30,Sergi Darder
+F,26,Juanmi
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,6,Koke
+M,10,Arda Turan
+M,16,Oliver
+F,9,David Villa
+F,19,Diego Costa
+
+Real Valladolid  VS.  Real Betis:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,6,Jess Rueda
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,11,Daniel Larsson
+M,14,Omar Ramos
+M,18,Alvaro Rubio
+M,22,Victor Perez
+F,9,Javi Guerra
+--------------------------
+G,13,Guillermo Sara
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,12,Didac
+M,5,Mati
+M,10,Verd
+M,17,Juan Carlos
+M,19,Jorge Molina
+M,21,Lorenzo Reyes
+F,24,Rubn Castro
+
+Valencia  VS.  Levante:
+G,1,Diego Alves
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,6,Oriol Romeu
+M,7,Jonas
+M,8,Sofiane Feghouli
+M,21,Daniel Parejo
+F,9,Hlder Postiga
+--------------------------
+G,1,Keylor Navas
+D,6,Loukas Vyntra
+D,15,Nikos Karabelas
+D,16,Issam Adoua
+D,19,Pedro Lpez
+M,11,Rubn Garca
+M,20,Pedro Ros
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+
+Almeria  VS.  Granada:
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,11,Hlder Barbosa
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,9,Oscar Diaz
+--------------------------
+G,1,Orestis Karnezis
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,15,Pape Diakhate
+D,22,Dimitri Foulquier
+M,4,Fran Rico
+M,8,Hassan Yebda
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+
+Real Sociedad  VS.  Elche:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,11,Carlos Vela
+M,14,Rubn Pardo
+F,9,Imanol Agirretxe
+--------------------------
+G,13,Too
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,7,Aarn
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,24,Carlos Sanchez
+F,14,Manu
+
+Almeria  VS.  Getafe:
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,6,Marcos Tebar
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,19,Sundy Zongo Jonathan
+--------------------------
+G,1,Miguel Moya
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,15,Rafa Lopez
+D,18,Sergio Escudero
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,24,Pedro Mosquera
+F,9,Ciprian Marica
+
+Osasuna  VS.  Athletic Bilbao:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+F,19,Oriol Riera Magem
+--------------------------
+G,1,Gorka Iraizoz
+D,6,Mikel San Jose
+D,10,Oscar de Marcos
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+
+Rayo Vallecano  VS.  Atletico Madrid:
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+M,4,Ral Baena
+M,7,Lass
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,23,Alberto Bueno
+F,20,Joaquin Larrivey
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,17,Javi Manquillo
+D,23,Miranda
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+M,24,Jos Ernesto Sosa
+F,9,David Villa
+F,19,Diego Costa
+
+Barcelona  VS.  Malaga:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,6,Xavi
+M,16,Sergio Busquets
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+--------------------------
+G,13,Wilfredo Caballero
+D,4,Flvio
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,11,Pablo Prez
+M,12,Fernando Tissone
+M,17,Duda
+M,26,Juanmi
+F,9,Roque Santa Cruz
+
+Real Madrid  VS.  Granada:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,11,Gareth Bale
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,16,Brayan Angulo
+D,24,Murillo
+M,14,Recio
+M,18,Manuel Iturra
+M,28,Fatau
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+
+Real Valladolid  VS.  Villarreal:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,6,Jess Rueda
+D,15,Stefan Mitrovic
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,10,scar Gonzlez
+M,11,Daniel Larsson
+M,18,Alvaro Rubio
+M,19,Valdet Rama
+F,9,Javi Guerra
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,4,Toms Pina
+M,17,Javier Aquino Carmona
+M,21,Bruno
+M,27,Moiss Gmez
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+
+Valencia  VS.  Espanyol:
+G,1,Diego Alves
+D,12,Joao Pereira
+D,18,Andrs Guardado
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,6,Oriol Romeu
+M,10,Ever Banega
+M,21,Daniel Parejo
+F,7,Jonas
+F,16,Paco Alcacer
+--------------------------
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+
+Sevilla FC  VS.  Levante:
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,21,Nicolas Pareja
+D,23,Coke Andjar
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+F,9,Carlos Bacca
+F,18,Kevin Gameiro
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+M,11,Rubn Garca
+M,19,Pedro Lpez
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+
+Celta Vigo  VS.  Real Betis:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,19,Jonny
+D,30,David Costas
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,12,Rafinha
+F,11,Charles
+F,14,Fabin Orellana
+F,23,Michael Krohn-Dehli
+--------------------------
+G,13,Guillermo Sara
+D,3,Paulo
+D,4,Antonio Amaya
+D,11,Juanfran
+D,23,Perez Nacho
+M,6,Leo Baptistao
+M,8,Nono
+M,10,Verd
+M,14,Salva Sevilla
+M,21,Lorenzo Reyes
+F,24,Rubn Castro
+
+Athletic Bilbao  VS.  Real Valladolid:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,7,Beat
+M,8,Ander Iturraspe
+M,11,Ibai Gomez
+M,14,Markel Susaeta
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,17,Carlos Gonzalez Pea
+D,21,Zakara Bergdich
+M,5,Fausto Rossi
+M,18,Alvaro Rubio
+M,22,Victor Perez
+F,9,Javi Guerra
+F,10,scar Gonzlez
+F,20,Patrick Ebert
+
+Getafe  VS.  Real Sociedad:
+G,1,Miguel Moya
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,15,Rafa Lopez
+D,18,Sergio Escudero
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,23,Borja
+F,9,Ciprian Marica
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,3,Mikel Gonzalez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,11,Carlos Vela
+M,14,Rubn Pardo
+M,17,David Zurutuza
+F,9,Imanol Agirretxe
+
+Villarreal  VS.  Almeria:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,21,Bruno
+M,27,Moiss Gmez
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,6,Marcos Tebar
+M,7,Verza
+M,31,Ramn Azeez
+F,8,Alexis Vidal Parreu
+F,11,Hlder Barbosa
+F,19,Sundy Zongo Jonathan
+
+Levante  VS.  Barcelona:
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+M,19,Pedro Lpez
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,8,Nabil El Zhar
+F,11,Rubn Garca
+--------------------------
+G,1,Victor Valds
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+M,4,Cesc Fbregas
+M,6,Xavi
+M,16,Sergio Busquets
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+
+Atletico Madrid  VS.  Sevilla FC:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,6,Koke
+M,8,Ral Garca
+M,10,Arda Turan
+M,14,Gabi
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,21,Nicolas Pareja
+D,23,Coke Andjar
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,20,Vitolo
+M,32,Alberto
+F,9,Carlos Bacca
+
+Real Betis  VS.  Real Madrid:
+G,1,Stephan Andersen
+D,2,Francisco Chica Torres
+D,3,Paulo
+D,4,Antonio Amaya
+D,12,Didac
+M,5,Mati
+M,6,Leo Baptistao
+M,14,Salva Sevilla
+M,21,Lorenzo Reyes
+F,19,Jorge Molina
+F,24,Rubn Castro
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,11,Gareth Bale
+
+Elche  VS.  Rayo Vallecano:
+G,13,Too
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,7,Aarn
+M,11,Coro
+M,15,Carles Gil de Pareja Vicent
+M,17,Javier Moreno Marquez
+F,28,Cristian Herrera
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,3,Jose Ignacio Martinez Garcia
+D,5,Alejandro Glvez
+D,22,Sal guez Esclapez
+M,4,Ral Baena
+M,7,Lass
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,23,Alberto Bueno
+F,11,Nery Castillo
+
+Granada  VS.  Osasuna:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,16,Brayan Angulo
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+--------------------------
+G,1,Asier Riesgo
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+F,19,Oriol Riera Magem
+
+Espanyol  VS.  Celta Vigo:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,19,Jonny
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,12,Rafinha
+M,14,Fabin Orellana
+M,23,Michael Krohn-Dehli
+M,24,Augusto Fernndez
+F,29,Santi Mina
+
+Malaga  VS.  Valencia:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,4,Flvio
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,12,Fernando Tissone
+M,17,Duda
+M,18,Eliseu
+M,24,Samuel
+F,9,Roque Santa Cruz
+--------------------------
+G,1,Diego Alves
+D,12,Joao Pereira
+D,18,Andrs Guardado
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,6,Oriol Romeu
+M,7,Jonas
+M,10,Ever Banega
+M,21,Daniel Parejo
+F,16,Paco Alcacer
+
+Villarreal  VS.  Osasuna:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+D,20,Gabriel Paulista
+M,4,Toms Pina
+M,14,Trigueros
+M,17,Javier Aquino Carmona
+M,27,Moiss Gmez
+F,8,Ikechukwu Uche
+F,9,Giovani Dos Santos
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,4,Miguel Flao
+D,22,Jordan Loties
+D,24,Damia
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,17,Cristian Lobato Villegas
+M,23,Raoul Loe
+F,7,Javier Acua Caballero
+F,8,Miguel de las Cuevas
+
+Elche  VS.  Almeria:
+G,13,Too
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,14,Manu
+M,15,Carles Gil de Pareja Vicent
+M,17,Javier Moreno Marquez
+F,28,Cristian Herrera
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,20,Rafita
+D,21,Man
+M,6,Marcos Tebar
+M,7,Verza
+M,31,Ramn Azeez
+F,8,Alexis Vidal Parreu
+F,17,Suso
+F,19,Sundy Zongo Jonathan
+
+Real Betis  VS.  Espanyol:
+G,1,Antonio Adn
+D,4,Antonio Amaya
+D,11,Juanfran
+D,17,Juan Carlos
+D,18,Alfred Ndiaye
+D,25,Jordi Figueras Montel
+M,9,Chuli
+M,10,Verd
+M,14,Salva Sevilla
+M,21,Lorenzo Reyes
+F,24,Rubn Castro
+--------------------------
+G,13,Francisco Casilla
+D,3,Ral Rodrguez
+D,15,Hctor Moreno
+D,17,Vctor lvarez Delgado
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,14,David Lpez
+M,16,Jav Lpez
+M,20,Simo
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+
+Atletico Madrid  VS.  Real Sociedad:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,20,Francisco Juanfran
+D,22,Emiliano Insua
+D,23,Miranda
+M,4,Mario Surez
+M,6,Koke
+M,14,Gabi
+M,24,Jos Ernesto Sosa
+F,9,David Villa
+F,19,Diego Costa
+--------------------------
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,14,Rubn Pardo
+M,17,David Zurutuza
+M,28,Gaztaaga
+F,11,Carlos Vela
+
+Athletic Bilbao  VS.  Real Madrid:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,10,Oscar de Marcos
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,20,Jese
+
+Barcelona  VS.  Valencia:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,14,Javier Mascherano
+D,18,Jordi Alba
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,6,Xavi
+M,16,Sergio Busquets
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+--------------------------
+G,1,Diego Alves
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,6,Oriol Romeu
+M,8,Sofiane Feghouli
+M,15,Javi Fuego
+M,21,Daniel Parejo
+F,16,Paco Alcacer
+
+Levante  VS.  Rayo Vallecano:
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,17,Jordi Xumetra Feliu
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+--------------------------
+G,13,Rubn
+D,2,Tito
+D,18,Ze Castro
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+M,4,Ral Baena
+M,10,Roberto Trashorras
+M,16,Ruben Rochina
+M,19,Jonathan Viera
+M,24,Yago Falqu
+F,20,Joaquin Larrivey
+
+Getafe  VS.  Real Valladolid:
+G,1,Miguel Moya
+D,3,Roberto Lago
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,15,Rafa Lopez
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,23,Borja
+F,9,Ciprian Marica
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,6,Jess Rueda
+D,15,Stefan Mitrovic
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,18,Alvaro Rubio
+M,22,Victor Perez
+F,9,Javi Guerra
+F,11,Daniel Larsson
+F,14,Omar Ramos
+
+Malaga  VS.  Sevilla FC:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,4,Flvio
+D,5,Vitorino Antunes
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,12,Fernando Tissone
+M,17,Duda
+M,18,Eliseu
+M,23,Nordin Amrabat
+F,26,Juanmi
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,14,Alberto
+D,21,Nicolas Pareja
+D,23,Coke Andjar
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+F,9,Carlos Bacca
+
+Granada  VS.  Celta Vigo:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,16,Brayan Angulo
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,19,Jonny
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,12,Rafinha
+M,24,Augusto Fernndez
+F,10,Nolito
+F,11,Charles
+F,14,Fabin Orellana
+
+Malaga  VS.  Real Sociedad:
+G,13,Wilfredo Caballero
+D,4,Flvio
+D,5,Vitorino Antunes
+D,6,Ignacio Camacho
+D,15,Marcos Angeleri
+M,8,Francisco Portillo
+M,10,Oleksandr  Yakovenko
+M,12,Fernando Tissone
+M,23,Nordin Amrabat
+M,30,Sergi Darder
+F,7,Mounir El Hamdaoui
+--------------------------
+G,1,Claudio Bravo
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+D,31,Zalda
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,11,Carlos Vela
+M,14,Rubn Pardo
+M,16,Sergio Canales Madrazo
+F,8,Haris Seferovic
+
+Granada  VS.  Real Betis:
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,6,Tiago Ilori
+D,16,Brayan Angulo
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,28,Fatau
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+--------------------------
+G,1,Antonio Adn
+D,4,Antonio Amaya
+D,11,Juanfran
+D,17,Juan Carlos
+D,18,Alfred Ndiaye
+D,25,Jordi Figueras Montel
+M,8,Nono
+M,10,Verd
+M,21,Lorenzo Reyes
+F,19,Jorge Molina
+F,24,Rubn Castro
+
+Getafe  VS.  Real Madrid:
+G,1,Miguel Moya
+D,2,Alexis
+D,4,Lisandro Lopez
+D,20,Valera
+D,28,Carlos Vigaray
+M,10,Jaime Gaviln Martnez
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,22,Juan Rodrguez
+M,23,Borja
+F,11,Adrin Colunga
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,17,lvaro Arbeloa
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+F,9,Karim Benzema
+F,11,Gareth Bale
+F,20,Jese
+
+Athletic Bilbao  VS.  Espanyol:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,6,Mikel San Jose
+M,11,Ibai Gomez
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,14,David Lpez
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+
+Sevilla FC  VS.  Valencia:
+G,13,Beto
+D,2,Federico Fazio
+D,14,Alberto
+D,21,Nicolas Pareja
+D,23,Coke Andjar
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,19,Jos Antonio Reyes
+M,20,Vitolo
+F,9,Carlos Bacca
+--------------------------
+G,1,Diego Alves
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,20,Ricardo Costa
+D,22,Jrmy Mathieu
+M,8,Sofiane Feghouli
+M,15,Javi Fuego
+M,17,Eduardo Vargas
+M,21,Daniel Parejo
+M,28,Federico Cartabia
+F,16,Paco Alcacer
+
+Atletico Madrid  VS.  Real Valladolid:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,12,Toby Alderweireld
+D,20,Francisco Juanfran
+D,22,Emiliano Insua
+M,4,Mario Surez
+M,6,Koke
+M,10,Arda Turan
+M,14,Gabi
+F,8,Ral Garca
+F,19,Diego Costa
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,4,Marc Valiente
+D,15,Stefan Mitrovic
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,11,Daniel Larsson
+M,14,Omar Ramos
+M,18,Alvaro Rubio
+M,22,Victor Perez
+F,9,Javi Guerra
+
+Levante  VS.  Almeria:
+G,1,Keylor Navas
+D,4,David Navarro
+D,5,Hector Rodas
+D,12,Juanfran
+D,19,Pedro Lpez
+M,8,Nabil El Zhar
+M,11,Rubn Garca
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,3,Vctor Casadess
+F,7,David Barral
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,11,Hlder Barbosa
+M,17,Suso
+M,31,Ramn Azeez
+F,19,Sundy Zongo Jonathan
+
+Barcelona  VS.  Rayo Vallecano:
+G,1,Victor Valds
+D,3,Gerard Piqu
+D,5,Carles Puyol
+D,21,Adriano
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+--------------------------
+G,13,Rubn
+D,18,Ze Castro
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+D,26,Johan Mojica
+M,4,Ral Baena
+M,10,Roberto Trashorras
+M,16,Ruben Rochina
+M,23,Alberto Bueno
+M,24,Yago Falqu
+F,20,Joaquin Larrivey
+
+Villarreal  VS.  Celta Vigo:
+G,25,Juan Carlos
+D,2,Mario Gaspar Prez Martnez
+D,3,Bojan Jokic
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+M,4,Toms Pina
+M,14,Trigueros
+M,21,Bruno
+M,27,Moiss Gmez
+F,7,Jrmy Perbet
+F,9,Giovani Dos Santos
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,15,Jon Aurtenetxe
+D,19,Jonny
+D,22,Gustavo Cabral
+M,3,Fonts
+M,12,Rafinha
+M,14,Fabin Orellana
+M,23,Michael Krohn-Dehli
+M,24,Augusto Fernndez
+F,29,Santi Mina
+
+Elche  VS.  Osasuna:
+G,13,Too
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,23,Domingo
+M,6,Rubn Prez
+M,11,Coro
+M,14,Manu
+M,16,Fidel
+M,24,Carlos Sanchez
+F,28,Cristian Herrera
+--------------------------
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,9,Emiliano Armenteros
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+
+Celta Vigo  VS.  Athletic Bilbao:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,19,Jonny
+D,22,Gustavo Cabral
+M,8,lex Lpez
+M,12,Rafinha
+M,14,Fabin Orellana
+M,23,Michael Krohn-Dehli
+M,29,Santi Mina
+F,11,Charles
+--------------------------
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,10,Oscar de Marcos
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+
+Osasuna  VS.  Getafe:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,8,Miguel de las Cuevas
+M,9,Emiliano Armenteros
+M,10,Francisco Pual
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+F,19,Oriol Riera Magem
+--------------------------
+G,1,Miguel Moya
+D,3,Roberto Lago
+D,4,Lisandro Lopez
+D,12,Arroyo
+D,15,Rafa Lopez
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,21,Michel
+M,23,Borja
+F,9,Ciprian Marica
+
+Real Valladolid  VS.  Elche:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,6,Jess Rueda
+D,15,Stefan Mitrovic
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,11,Daniel Larsson
+M,14,Omar Ramos
+M,18,Alvaro Rubio
+M,22,Victor Perez
+F,23,Manucho
+--------------------------
+G,13,Too
+D,3,Alberto Bota
+D,18,Sergio Pelegrin
+D,19,Cristian Sapunaru
+D,23,Domingo
+M,6,Rubn Prez
+M,11,Coro
+M,14,Manu
+M,15,Carles Gil de Pareja Vicent
+M,17,Javier Moreno Marquez
+F,28,Cristian Herrera
+
+Real Sociedad  VS.  Levante:
+G,1,Claudio Bravo
+D,2,Carlos Martinez
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+M,5,Markel Bergara Larraaga
+M,7,Antoine Griezmann
+M,10,Xabi Prieto
+M,14,Rubn Pardo
+M,18,Gonzalo Castro Irizabal
+F,9,Imanol Agirretxe
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+M,19,Pedro Lpez
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,3,Vctor Casadess
+F,7,David Barral
+
+Sevilla FC  VS.  Barcelona:
+G,13,Beto
+D,2,Federico Fazio
+D,5,Diogo Figueiras
+D,14,Alberto
+D,21,Nicolas Pareja
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,18,Kevin Gameiro
+M,20,Vitolo
+F,9,Carlos Bacca
+--------------------------
+G,1,Victor Valds
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,15,Marc Bartra
+D,21,Adriano
+M,6,Xavi
+M,8,Andrs Iniesta
+M,17,Alex Song
+F,7,Pedro
+F,9,Alexis Snchez
+F,10,Lionel Messi
+
+Valencia  VS.  Real Betis:
+G,1,Diego Alves
+D,4,Philippe Senderos
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,22,Jrmy Mathieu
+M,2,Pablo Piatti
+M,8,Sofiane Feghouli
+M,15,Javi Fuego
+M,17,Eduardo Vargas
+M,21,Daniel Parejo
+F,16,Paco Alcacer
+--------------------------
+G,1,Antonio Adn
+D,4,Antonio Amaya
+D,11,Juanfran
+D,12,Didac
+D,25,Jordi Figueras Montel
+M,6,Leo Baptistao
+M,10,Verd
+M,18,Alfred Ndiaye
+M,21,Lorenzo Reyes
+M,22,Cedric
+F,24,Rubn Castro
+
+Rayo Vallecano  VS.  Malaga:
+G,13,Rubn
+D,3,Jose Ignacio Martinez Garcia
+D,18,Ze Castro
+D,21,Anaitz Arbilla
+D,22,Sal guez Esclapez
+M,4,Ral Baena
+M,10,Roberto Trashorras
+M,16,Ruben Rochina
+M,23,Alberto Bueno
+M,24,Yago Falqu
+F,20,Joaquin Larrivey
+--------------------------
+G,13,Wilfredo Caballero
+D,4,Flvio
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,11,Pablo Prez
+M,14,Pedro Morales
+M,23,Nordin Amrabat
+M,24,Samuel
+F,26,Juanmi
+
+Real Madrid  VS.  Villarreal:
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,12,Marcelo
+D,15,Daniel Carvajal
+M,19,Luka Modric
+M,22,ngel Di Mara
+M,24,Asier Illarramendi
+F,9,Karim Benzema
+F,11,Gareth Bale
+F,20,Jese
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,5,Mateo Musacchio
+D,16,Jos Antonio Dorado Ramrez
+D,18,Jaume
+M,17,Javier Aquino Carmona
+M,21,Bruno
+M,27,Moiss Gmez
+M,28,Eduardo  Gomez
+F,9,Giovani Dos Santos
+F,24,Jonathan
+
+Almeria  VS.  Atletico Madrid:
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,19,Sundy Zongo Jonathan
+--------------------------
+G,1,Daniel Aranzuba
+D,2,Diego Godn
+D,17,Javi Manquillo
+D,20,Francisco Juanfran
+D,23,Miranda
+M,5,Tiago
+M,8,Ral Garca
+M,10,Arda Turan
+M,14,Gabi
+M,21,Diego
+F,19,Diego Costa
+
+Espanyol  VS.  Granada:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,17,Vctor lvarez Delgado
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,9,Sergio Garca
+M,14,David Lpez
+M,20,Simo
+F,24,Jhon Cordoba
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,6,Tiago Ilori
+D,16,Brayan Angulo
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,12,Diego Buonanotte
+
+Villarreal  VS.  Real Betis:
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,3,Bojan Jokic
+D,6,Aleksandar Pantic
+D,20,Gabriel Paulista
+M,4,Toms Pina
+M,21,Bruno
+M,27,Moiss Gmez
+M,44,Nahuel Leiva
+F,7,Jrmy Perbet
+F,9,Giovani Dos Santos
+--------------------------
+G,1,Antonio Adn
+D,4,Antonio Amaya
+D,11,Juanfran
+D,12,Didac
+D,18,Alfred Ndiaye
+D,25,Jordi Figueras Montel
+M,6,Leo Baptistao
+M,8,Nono
+M,22,Cedric
+F,14,Salva Sevilla
+F,24,Rubn Castro
+
+Atletico Madrid  VS.  Real Madrid:
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,20,Francisco Juanfran
+D,23,Miranda
+M,4,Mario Surez
+M,6,Koke
+M,8,Ral Garca
+M,10,Arda Turan
+M,14,Gabi
+F,19,Diego Costa
+--------------------------
+G,25,Diego Lopez
+D,3,Pepe
+D,4,Sergio Ramos
+D,5,Fbio Coentro
+D,17,lvaro Arbeloa
+M,14,Xabi Alonso
+M,19,Luka Modric
+M,22,ngel Di Mara
+F,7,Cristiano Ronaldo
+F,9,Karim Benzema
+F,11,Gareth Bale
+
+Sevilla FC  VS.  Real Sociedad:
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,14,Alberto
+D,23,Coke Andjar
+M,5,Diogo Figueiras
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,15,Piotr Trochowski
+M,19,Jos Antonio Reyes
+F,9,Carlos Bacca
+--------------------------
+G,1,Claudio Bravo
+D,6,Iigo Martnez
+D,15,Jon Ansotegui
+D,20,Jose Angel
+D,31,Zalda
+M,4,Gorka Urkola
+M,5,Markel Bergara Larraaga
+M,16,Sergio Canales Madrazo
+M,17,David Zurutuza
+F,7,Antoine Griezmann
+F,11,Carlos Vela
+
+Barcelona  VS.  Almeria:
+G,1,Victor Valds
+D,5,Carles Puyol
+D,14,Javier Mascherano
+D,21,Adriano
+D,22,Dani Alves
+M,4,Cesc Fbregas
+M,6,Xavi
+M,16,Sergio Busquets
+F,9,Alexis Snchez
+F,10,Lionel Messi
+F,11,Neymar
+--------------------------
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,7,Verza
+M,15,Miguel Angel Corona
+M,31,Ramn Azeez
+F,8,Alexis Vidal Parreu
+F,10,Rodri
+F,19,Sundy Zongo Jonathan
+
+Rayo Vallecano  VS.  Valencia:
+G,13,Rubn
+D,2,Tito
+D,5,Alejandro Glvez
+D,15,Razvan Dinca Rat
+D,18,Ze Castro
+M,10,Roberto Trashorras
+M,16,Ruben Rochina
+M,22,Sal guez Esclapez
+M,23,Alberto Bueno
+M,24,Yago Falqu
+F,20,Joaquin Larrivey
+--------------------------
+G,1,Diego Alves
+D,4,Philippe Senderos
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,22,Jrmy Mathieu
+M,8,Sofiane Feghouli
+M,11,Seydou Keita
+M,17,Eduardo Vargas
+M,24,Michel
+M,30,Portu
+F,16,Paco Alcacer
+
+Malaga  VS.  Real Valladolid:
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,10,Oleksandr  Yakovenko
+M,12,Fernando Tissone
+M,17,Duda
+M,23,Nordin Amrabat
+F,9,Roque Santa Cruz
+--------------------------
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,6,Jess Rueda
+D,15,Stefan Mitrovic
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,11,Daniel Larsson
+M,18,Alvaro Rubio
+M,19,Valdet Rama
+F,9,Javi Guerra
+F,23,Manucho
+
+Levante  VS.  Osasuna:
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+M,3,Vctor Casadess
+M,11,Rubn Garca
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+--------------------------
+G,13,Andrs Fernndez
+D,14,Javi Arribas
+D,15,Oier Sonj
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,9,Emiliano Armenteros
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+
+Getafe  VS.  Espanyol:
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,15,Rafa Lopez
+D,20,Valera
+M,7,Lafita
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,22,Juan Rodrguez
+M,23,Borja
+F,9,Ciprian Marica
+--------------------------
+G,13,Francisco Casilla
+D,6,Sidnei
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,14,David Lpez
+M,20,Simo
+M,25,Gabriel Torje
+F,9,Sergio Garca
+F,24,Jhon Cordoba
+
+Elche  VS.  Celta Vigo:
+G,1,Manuel Yage
+D,2,Damin Surez
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+M,6,Rubn Prez
+M,11,Coro
+M,14,Manu
+M,16,Fidel
+M,17,Javier Moreno Marquez
+F,28,Cristian Herrera
+--------------------------
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,15,Jon Aurtenetxe
+D,19,Jonny
+D,22,Gustavo Cabral
+M,3,Fonts
+M,12,Rafinha
+M,23,Michael Krohn-Dehli
+F,14,Fabin Orellana
+F,24,Augusto Fernndez
+F,29,Santi Mina
+
+Athletic Bilbao  VS.  Granada:
+G,1,Gorka Iraizoz
+D,4,Aymeric Laporte
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,20,Aritz Aduriz
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,5,Mainz
+D,16,Brayan Angulo
+D,19,Alexandre Coeff
+M,14,Recio
+M,18,Manuel Iturra
+M,28,Fatau
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,23,Pereira
+
+Espanyol  VS.  Villarreal:
+G,13,Francisco Casilla
+D,15,Hctor Moreno
+D,16,Jav Lpez
+D,18,Juan Rafael Fuentes Hernandez
+D,19,Diego Colotto
+M,4,Vctor Snchez
+M,8,Christian Stuani
+M,14,David Lpez
+M,20,Simo
+M,23,Abraham Gonzlez
+F,9,Sergio Garca
+--------------------------
+G,1,Sergio Asenjo
+D,2,Mario Gaspar Prez Martnez
+D,3,Bojan Jokic
+D,5,Mateo Musacchio
+D,20,Gabriel Paulista
+M,4,Toms Pina
+M,21,Bruno
+M,27,Moiss Gmez
+M,44,Nahuel Leiva
+F,7,Jrmy Perbet
+F,9,Giovani Dos Santos
+
+Rayo Vallecano  VS.  Sevilla FC:
+G,13,Rubn
+D,2,Tito
+D,15,Razvan Dinca Rat
+D,18,Ze Castro
+D,22,Sal guez Esclapez
+M,4,Ral Baena
+M,7,Lass
+M,10,Roberto Trashorras
+M,19,Jonathan Viera
+M,24,Yago Falqu
+F,23,Alberto Bueno
+--------------------------
+G,13,Beto
+D,2,Federico Fazio
+D,3,Fernando Navarro
+D,21,Nicolas Pareja
+D,23,Coke Andjar
+M,6,Daniel Carrio
+M,11,Ivan Rakitic
+M,12,Vicente Iborra de la Fuente
+M,14,Alberto
+M,17,Jairo Samperio
+F,9,Carlos Bacca
+
+Real Betis  VS.  Athletic Bilbao:
+G,1,Antonio Adn
+D,11,Juanfran
+D,12,Didac
+D,15,Damien Perquis
+D,18,Alfred Ndiaye
+M,6,Leo Baptistao
+M,8,Nono
+M,14,Salva Sevilla
+M,21,Lorenzo Reyes
+M,22,Cedric
+F,24,Rubn Castro
+--------------------------
+G,1,Gorka Iraizoz
+D,6,Mikel San Jose
+D,15,Andoni Iraola
+D,18,Carlos Gurpegui
+D,24,Mikel Balenziaga
+M,8,Ander Iturraspe
+M,14,Markel Susaeta
+M,17,Moreno Mikel Rico
+M,19,Iker Munian
+M,21,Ander Herrera
+F,9,Kike Sola
+
+Valencia  VS.  Granada:
+G,1,Diego Alves
+D,3,Rubn Vezo
+D,14,Juan Bernat
+D,19,Antonio Barragan
+D,22,Jrmy Mathieu
+M,8,Sofiane Feghouli
+M,11,Seydou Keita
+M,15,Javi Fuego
+M,21,Daniel Parejo
+M,28,Federico Cartabia
+F,17,Eduardo Vargas
+--------------------------
+G,13,Roberto
+D,2,Allan-Romo Nyom
+D,16,Brayan Angulo
+D,19,Alexandre Coeff
+D,24,Murillo
+M,4,Fran Rico
+M,14,Recio
+M,18,Manuel Iturra
+F,9,Youssef El Arabi
+F,10,Yacine Brahimi
+F,20,Piti
+
+Osasuna  VS.  Atletico Madrid:
+G,13,Andrs Fernndez
+D,2,Marc Bertrn
+D,14,Javi Arribas
+D,22,Jordan Loties
+D,24,Damia
+M,5,Lolo
+M,9,Emiliano Armenteros
+M,16,Alvaro Cejudo
+M,20,Francisco Silva
+M,21,Roberto Torres
+F,19,Oriol Riera Magem
+--------------------------
+G,13,Thibaut Courtois
+D,2,Diego Godn
+D,3,Filipe Luis
+D,12,Toby Alderweireld
+D,20,Francisco Juanfran
+M,4,Mario Surez
+M,7,Adrin
+M,14,Gabi
+M,21,Diego
+F,9,David Villa
+F,19,Diego Costa
+
+Real Madrid  VS.  Elche:
+G,25,Diego Lopez
+D,2,Raphael Varane
+D,3,Pepe
+D,15,Daniel Carvajal
+D,17,lvaro Arbeloa
+M,14,Xabi Alonso
+M,22,ngel Di Mara
+M,24,Asier Illarramendi
+F,9,Karim Benzema
+F,11,Gareth Bale
+F,20,Jese
+--------------------------
+G,1,Manuel Yage
+D,3,Alberto Bota
+D,4,David Rodriguez Lomban
+D,21,Edu Albcar
+D,23,Domingo
+M,5,Alberto Rivera
+M,6,Rubn Prez
+M,17,Javier Moreno Marquez
+F,11,Coro
+F,14,Manu
+F,15,Carles Gil de Pareja Vicent
+
+Celta Vigo  VS.  Getafe:
+G,13,Yoel Rodrguez Oterino
+D,2,Hugo Mallo
+D,3,Fonts
+D,19,Jonny
+D,22,Gustavo Cabral
+M,4,Borja Oubina Melendez
+M,8,lex Lpez
+M,24,Augusto Fernndez
+F,11,Charles
+F,12,Rafinha
+F,14,Fabin Orellana
+--------------------------
+G,1,Miguel Moya
+D,2,Alexis
+D,3,Roberto Lago
+D,4,Lisandro Lopez
+D,20,Valera
+M,8,Sarabia
+M,14,Pedro Len
+M,17,Diego Castro Gimenez
+M,22,Juan Rodrguez
+M,23,Borja
+F,7,Lafita
+
+Real Sociedad  VS.  Barcelona:
+G,1,Claudio Bravo
+D,3,Mikel Gonzalez
+D,6,Iigo Martnez
+D,20,Jose Angel
+D,31,Zalda
+M,4,Gorka Urkola
+M,5,Markel Bergara Larraaga
+M,17,David Zurutuza
+F,7,Antoine Griezmann
+F,11,Carlos Vela
+F,16,Sergio Canales Madrazo
+--------------------------
+G,1,Victor Valds
+D,2,Martin Montoya
+D,3,Gerard Piqu
+D,15,Marc Bartra
+D,21,Adriano
+M,8,Andrs Iniesta
+M,16,Sergio Busquets
+M,17,Alex Song
+F,7,Pedro
+F,10,Lionel Messi
+F,11,Neymar
+
+Almeria  VS.  Malaga:
+G,1,Suarez Esteban
+D,2,Marco Torsiglieri
+D,5,ngel Trujillo
+D,16,Sebastian Dubarbier
+D,20,Rafita
+M,7,Verza
+M,8,Alexis Vidal Parreu
+M,17,Suso
+M,23,Fernando Soriano
+M,31,Ramn Azeez
+F,19,Sundy Zongo Jonathan
+--------------------------
+G,13,Wilfredo Caballero
+D,2,Jesus Gamez
+D,5,Vitorino Antunes
+D,15,Marcos Angeleri
+D,21,Sergio Snchez
+M,6,Ignacio Camacho
+M,12,Fernando Tissone
+M,17,Duda
+M,23,Nordin Amrabat
+M,24,Samuel
+F,9,Roque Santa Cruz
+
+Real Valladolid  VS.  Levante:
+G,13,Diego Marino Villar
+D,2,Antonio Rukavina
+D,6,Jess Rueda
+D,15,Stefan Mitrovic
+D,17,Carlos Gonzalez Pea
+M,5,Fausto Rossi
+M,11,Daniel Larsson
+M,18,Alvaro Rubio
+M,19,Valdet Rama
+F,7,Humberto Osorio
+F,9,Javi Guerra
+--------------------------
+G,1,Keylor Navas
+D,4,David Navarro
+D,6,Loukas Vyntra
+D,12,Juanfran
+D,15,Nikos Karabelas
+M,3,Vctor Casadess
+M,19,Pedro Lpez
+M,21,Andreas Ivanschitz
+M,23,Pape Diop
+M,24,Simo Mate Junior
+F,7,David Barral
+
